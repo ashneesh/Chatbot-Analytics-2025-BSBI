@@ -1,0 +1,2001 @@
+user_id,timestamp,user_message,intent
+user_37,2026-01-02 15:16:37.287351,what are the features of this laptop?,Product_Inquiry
+user_48,2025-12-29 17:47:14.287373,talk to human agent,Customer_Service_Contact
+user_47,2026-01-14 10:47:47.287383,money back please,Refund_Request
+user_3,2026-01-08 06:25:08.287389,kindle not syncing,Technical_Issue
+user_24,2026-01-06 01:27:04.287396,change my password,Account_Assistance
+user_17,2026-01-07 16:31:07.287402,how to change my address?,Account_Assistance
+user_37,2026-01-11 20:25:52.287469,can't log into my account,Account_Assistance
+user_45,2025-12-30 22:13:49.287476,account suspended,Account_Assistance
+user_24,2026-01-04 01:55:44.287482,talk to human agent,Customer_Service_Contact
+user_2,2025-12-21 23:43:18.287488,rate my experience,Feedback
+user_2,2026-01-17 17:13:56.287494,return item,Refund_Request
+user_32,2026-01-01 01:26:36.287500,talk to human agent,Customer_Service_Contact
+user_43,2026-01-02 23:37:07.287506,order arrived yet?,Check_Order
+user_19,2026-01-08 14:40:39.287512,compatibility questions,Product_Inquiry
+user_6,2026-01-08 15:20:37.287518,speak to a representative,Customer_Service_Contact
+user_7,2026-01-06 21:33:13.287524,hello,Greeting
+user_37,2026-01-13 10:24:31.287530,status of order #123,Check_Order
+user_35,2025-12-21 08:55:33.287536,asdfghjkl,Fallback
+user_32,2026-01-10 14:51:03.287542,feedback about your service,Feedback
+user_40,2026-01-10 22:57:41.287548,feedback about your service,Feedback
+user_32,2025-12-25 21:21:47.287554,prime video not working,Technical_Issue
+user_24,2025-12-30 04:32:24.287560,hello,Greeting
+user_32,2025-12-25 01:11:52.287566,good morning,Greeting
+user_14,2025-12-23 00:26:29.287572,manage my subscriptions,Account_Assistance
+user_32,2026-01-11 22:32:25.287578,defective item,Refund_Request
+user_22,2026-01-10 16:47:37.287584,account suspended,Account_Assistance
+user_46,2026-01-03 14:44:47.287590,money back please,Refund_Request
+user_31,2026-01-01 00:05:59.287596,I don't understand,Fallback
+user_7,2026-01-16 00:50:51.287602,shipping update,Check_Order
+user_49,2026-01-04 10:39:18.287608,talk to human agent,Customer_Service_Contact
+user_21,2026-01-08 17:08:35.287614,shipping update,Check_Order
+user_26,2026-01-13 13:24:06.287621,hey there,Greeting
+user_13,2026-01-13 18:00:04.287626,manage my subscriptions,Account_Assistance
+user_40,2026-01-17 12:27:14.287632,hello,Greeting
+user_2,2025-12-26 22:04:20.287638,login failed,Technical_Issue
+user_35,2026-01-09 17:32:34.287644,error 404,Technical_Issue
+user_27,2025-12-27 16:45:29.287650,hello,Greeting
+user_50,2025-12-26 09:36:07.287656,feedback about your service,Feedback
+user_1,2025-12-23 12:39:26.287662,error 404,Technical_Issue
+user_32,2026-01-09 17:00:35.287668,connect me to support,Customer_Service_Contact
+user_48,2025-12-25 10:16:40.287674,cannot access my account,Technical_Issue
+user_48,2025-12-24 09:18:19.287680,I don't understand,Fallback
+user_1,2025-12-22 22:22:34.287685,tell me about product X,Product_Inquiry
+user_5,2026-01-01 04:41:58.287691,speak to a representative,Customer_Service_Contact
+user_48,2026-01-07 02:03:40.287697,how to change my address?,Account_Assistance
+user_41,2025-12-23 18:16:51.287703,!!,Fallback
+user_29,2025-12-25 15:44:33.287709,update payment method,Account_Assistance
+user_22,2025-12-28 01:59:54.287714,alexa is not responding,Technical_Issue
+user_36,2026-01-05 15:40:12.287720,asdfghjkl,Fallback
+user_5,2026-01-02 23:54:43.287726,my item is damaged,Refund_Request
+user_26,2026-01-02 03:54:34.287732,kindle not syncing,Technical_Issue
+user_14,2025-12-22 03:15:56.287738,kindle not syncing,Technical_Issue
+user_6,2026-01-15 07:08:12.287743,feedback about your service,Feedback
+user_7,2026-01-05 11:06:13.287749,hi,Greeting
+user_37,2025-12-26 00:19:30.287756,can I speak to a purple elephant?,Fallback
+user_4,2026-01-20 02:51:48.287762,issue with my recent purchase,Refund_Request
+user_47,2026-01-20 04:51:36.287767,order arrived yet?,Check_Order
+user_41,2025-12-25 16:12:13.287773,how to change my address?,Account_Assistance
+user_38,2026-01-04 05:08:16.287779,good morning,Greeting
+user_32,2026-01-10 07:27:29.287785,has my order shipped?,Check_Order
+user_11,2026-01-13 06:49:41.287790,where is my package?,Check_Order
+user_24,2026-01-19 03:53:00.287796,good morning,Greeting
+user_37,2025-12-31 03:22:53.287802,connect me to support,Customer_Service_Contact
+user_20,2026-01-14 02:21:22.287808,where is my package?,Check_Order
+user_17,2026-01-01 14:04:44.287813,alexa is not responding,Technical_Issue
+user_44,2025-12-31 09:48:44.287819,can I speak to a purple elephant?,Fallback
+user_20,2026-01-18 00:23:11.287825,alexa is not responding,Technical_Issue
+user_40,2026-01-13 20:53:24.287831,who are you?,Fallback
+user_9,2026-01-05 13:24:55.287837,hi,Greeting
+user_46,2026-01-13 20:36:12.287843,where is my package?,Check_Order
+user_29,2026-01-02 13:03:13.287848,feedback about your service,Feedback
+user_20,2025-12-27 14:39:47.287854,hey there,Greeting
+user_45,2025-12-20 20:00:07.287860,wrong size,Refund_Request
+user_43,2025-12-22 22:44:35.287866,account suspended,Account_Assistance
+user_13,2025-12-26 09:28:41.287872,feedback about your service,Feedback
+user_40,2026-01-14 01:03:34.287878,feedback about your service,Feedback
+user_7,2026-01-10 03:35:37.287883,wrong size,Refund_Request
+user_1,2025-12-22 14:34:20.287890,can't log into my account,Account_Assistance
+user_41,2026-01-18 05:42:42.287895,I need to speak with someone,Customer_Service_Contact
+user_2,2026-01-08 11:59:08.287901,feedback about your service,Feedback
+user_5,2026-01-19 06:59:11.287907,delivery date for my order,Check_Order
+user_31,2026-01-04 01:08:15.287913,account suspended,Account_Assistance
+user_38,2025-12-26 12:41:02.287918,price of item Y,Product_Inquiry
+user_39,2026-01-17 12:52:32.287924,asdfghjkl,Fallback
+user_38,2025-12-23 03:53:46.287930,manage my subscriptions,Account_Assistance
+user_32,2026-01-09 20:47:10.287936,cancel an order,Refund_Request
+user_7,2026-01-08 10:45:21.287941,is product Z in stock?,Product_Inquiry
+user_16,2025-12-24 13:21:52.287947,can I speak to a purple elephant?,Fallback
+user_5,2026-01-04 23:57:20.287953,can I track my recent purchase?,Check_Order
+user_25,2026-01-01 17:15:37.287959,what?,Fallback
+user_30,2026-01-03 03:45:28.287965,delivery date for my order,Check_Order
+user_7,2025-12-30 22:06:09.287970,my item is damaged,Refund_Request
+user_19,2026-01-09 07:05:55.287976,can't log into my account,Account_Assistance
+user_17,2026-01-09 06:49:35.287982,prime video not working,Technical_Issue
+user_45,2026-01-03 17:04:35.287988,rate my experience,Feedback
+user_33,2025-12-28 14:48:15.287994,talk to human agent,Customer_Service_Contact
+user_19,2026-01-05 01:26:53.287999,asdfghjkl,Fallback
+user_24,2026-01-14 08:08:34.288005,how to return a product?,Refund_Request
+user_5,2025-12-21 01:32:53.288012,delivery date for my order,Check_Order
+user_17,2026-01-06 17:45:23.288018,app is crashing,Technical_Issue
+user_42,2026-01-03 20:31:52.288024,compatibility questions,Product_Inquiry
+user_9,2026-01-12 09:22:17.288029,!!,Fallback
+user_30,2025-12-29 04:58:54.288035,I need to speak with someone,Customer_Service_Contact
+user_30,2026-01-09 05:57:39.288041,login failed,Technical_Issue
+user_27,2025-12-23 14:07:06.288047,hello,Greeting
+user_4,2025-12-22 09:04:37.288052,connect me to support,Customer_Service_Contact
+user_42,2026-01-17 09:02:26.288058,what?,Fallback
+user_35,2026-01-03 18:18:24.288064,talk to human agent,Customer_Service_Contact
+user_13,2025-12-29 14:56:40.288070,update payment method,Account_Assistance
+user_5,2026-01-08 07:33:27.288076,can I speak to a purple elephant?,Fallback
+user_21,2025-12-29 04:03:01.288082,!!,Fallback
+user_43,2025-12-21 08:54:45.288087,app is crashing,Technical_Issue
+user_25,2025-12-25 06:03:03.288093,who are you?,Fallback
+user_1,2026-01-10 15:21:51.288099,money back please,Refund_Request
+user_21,2025-12-26 02:21:12.288104,shipping update,Check_Order
+user_24,2025-12-24 07:05:29.288110,wrong size,Refund_Request
+user_18,2026-01-03 08:40:56.288116,connect me to support,Customer_Service_Contact
+user_16,2026-01-02 13:26:16.288122,greetings,Greeting
+user_8,2025-12-30 15:34:34.288128,tell me about product X,Product_Inquiry
+user_41,2025-12-29 07:28:24.288133,order arrived yet?,Check_Order
+user_47,2026-01-08 19:17:02.288139,where is my package?,Check_Order
+user_32,2026-01-14 20:53:06.288145,connect me to support,Customer_Service_Contact
+user_41,2026-01-06 20:41:49.288151,greetings,Greeting
+user_16,2025-12-27 14:58:39.288157,website not loading,Technical_Issue
+user_29,2026-01-08 16:33:23.288163,account suspended,Account_Assistance
+user_11,2026-01-16 21:00:05.288169,what?,Fallback
+user_7,2025-12-27 06:36:38.288174,website not loading,Technical_Issue
+user_36,2026-01-13 19:27:07.288180,can't log into my account,Account_Assistance
+user_19,2026-01-12 06:18:15.288188,alexa is not responding,Technical_Issue
+user_35,2026-01-18 13:27:39.288194,track order,Check_Order
+user_46,2025-12-29 09:18:02.288201,how to change my address?,Account_Assistance
+user_35,2026-01-08 03:18:23.288209,I need to speak with someone,Customer_Service_Contact
+user_41,2026-01-15 10:58:41.288215,connect me to support,Customer_Service_Contact
+user_16,2025-12-30 14:06:13.288221,feedback about your service,Feedback
+user_42,2026-01-16 14:35:03.288226,!!,Fallback
+user_50,2026-01-11 06:55:55.288232,product specifications,Product_Inquiry
+user_10,2026-01-08 12:27:46.288238,how to change my address?,Account_Assistance
+user_5,2026-01-15 05:34:16.288244,what are the features of this laptop?,Product_Inquiry
+user_47,2025-12-22 19:34:44.288249,alexa is not responding,Technical_Issue
+user_9,2025-12-22 00:03:54.288256,hey there,Greeting
+user_36,2026-01-13 06:43:00.288262,where is my package?,Check_Order
+user_13,2026-01-02 03:09:48.288269,can I track my recent purchase?,Check_Order
+user_41,2026-01-10 18:56:39.288276,asdfghjkl,Fallback
+user_23,2025-12-22 16:40:27.288282,hey there,Greeting
+user_42,2026-01-10 17:32:59.288288,hi,Greeting
+user_31,2025-12-27 20:52:28.288294,speak to a representative,Customer_Service_Contact
+user_7,2025-12-28 14:55:07.288300,feedback about your service,Feedback
+user_2,2025-12-27 02:35:05.288307,login failed,Technical_Issue
+user_22,2026-01-12 11:51:01.288313,I don't understand,Fallback
+user_40,2025-12-31 08:07:53.288320,feedback about your service,Feedback
+user_12,2026-01-13 09:37:16.288326,who are you?,Fallback
+user_17,2025-12-28 15:06:39.288332,feedback about your service,Feedback
+user_20,2026-01-18 12:26:47.288338,talk to human agent,Customer_Service_Contact
+user_33,2026-01-01 05:38:34.288343,kindle not syncing,Technical_Issue
+user_12,2026-01-02 10:11:53.288349,manage my subscriptions,Account_Assistance
+user_17,2026-01-07 18:46:17.288355,I have a suggestion,Feedback
+user_39,2026-01-01 06:00:53.288360,is product Z in stock?,Product_Inquiry
+user_20,2026-01-01 19:00:34.288366,I have a suggestion,Feedback
+user_8,2026-01-05 05:52:39.288372,talk to human agent,Customer_Service_Contact
+user_30,2026-01-07 11:23:53.288378,connect me to support,Customer_Service_Contact
+user_33,2026-01-05 07:36:37.288383,good morning,Greeting
+user_37,2025-12-26 20:55:12.288389,feedback about your service,Feedback
+user_9,2025-12-25 10:04:18.288395,connect me to support,Customer_Service_Contact
+user_40,2025-12-23 09:24:00.288400,prime membership issues,Account_Assistance
+user_40,2025-12-20 17:32:56.288437,hi,Greeting
+user_33,2026-01-03 06:06:45.288452,website not loading,Technical_Issue
+user_6,2025-12-23 11:30:36.288458,I have a suggestion,Feedback
+user_1,2026-01-11 09:28:22.288464,hello,Greeting
+user_42,2026-01-13 13:32:35.288470,what?,Fallback
+user_18,2026-01-17 15:05:14.288476,status of order #123,Check_Order
+user_19,2026-01-05 19:29:57.288482,return item,Refund_Request
+user_1,2025-12-23 01:53:25.288487,who are you?,Fallback
+user_40,2026-01-20 08:17:52.288493,feedback about your service,Feedback
+user_42,2025-12-28 22:29:11.288499,feedback about your service,Feedback
+user_18,2025-12-31 20:20:16.288505,track order,Check_Order
+user_19,2025-12-25 20:58:38.288511,hi,Greeting
+user_16,2025-12-31 03:50:33.288517,good morning,Greeting
+user_44,2025-12-24 14:47:05.288523,!!,Fallback
+user_5,2026-01-11 04:24:29.288528,can't log into my account,Account_Assistance
+user_45,2025-12-21 03:51:25.288534,cancel an order,Refund_Request
+user_22,2026-01-07 04:19:47.288540,rate my experience,Feedback
+user_11,2025-12-27 05:54:58.288546,price of item Y,Product_Inquiry
+user_32,2025-12-22 23:48:23.288552,I have a suggestion,Feedback
+user_6,2025-12-20 16:21:26.288558,can I speak to a purple elephant?,Fallback
+user_48,2026-01-07 00:47:33.288563,order arrived yet?,Check_Order
+user_7,2025-12-25 00:29:15.288569,change my password,Account_Assistance
+user_17,2025-12-27 02:00:29.288575,prime video not working,Technical_Issue
+user_14,2025-12-27 23:00:35.288581,track order,Check_Order
+user_20,2026-01-07 11:00:37.288586,I have a suggestion,Feedback
+user_33,2025-12-26 01:09:08.288592,greetings,Greeting
+user_19,2026-01-04 10:08:39.288598,I need to speak with someone,Customer_Service_Contact
+user_42,2026-01-11 13:12:42.288604,can I speak to a purple elephant?,Fallback
+user_1,2026-01-03 12:13:58.288610,feedback about your service,Feedback
+user_21,2025-12-21 03:11:37.288615,has my order shipped?,Check_Order
+user_50,2026-01-06 07:09:27.288621,compatibility questions,Product_Inquiry
+user_25,2026-01-19 12:26:09.288627,greetings,Greeting
+user_6,2026-01-12 22:03:05.288633,greetings,Greeting
+user_24,2026-01-18 07:08:13.288639,cannot access my account,Technical_Issue
+user_18,2026-01-05 01:19:22.288644,can I get help from a person?,Customer_Service_Contact
+user_22,2025-12-29 01:16:38.288650,I need to speak with someone,Customer_Service_Contact
+user_18,2026-01-08 05:16:59.288655,track order,Check_Order
+user_9,2026-01-16 06:24:33.288662,greetings,Greeting
+user_25,2026-01-16 00:35:54.288668,how to change my address?,Account_Assistance
+user_23,2025-12-28 12:21:07.288673,money back please,Refund_Request
+user_7,2025-12-21 02:09:54.288679,what?,Fallback
+user_12,2026-01-09 05:04:13.288685,!!,Fallback
+user_21,2026-01-14 18:03:35.288690,missing package,Check_Order
+user_16,2026-01-07 13:51:32.288696,feedback about your service,Feedback
+user_28,2026-01-07 22:43:04.288702,error 404,Technical_Issue
+user_47,2026-01-03 20:51:36.288708,I need to speak with someone,Customer_Service_Contact
+user_6,2026-01-10 08:21:13.288713,can I speak to a purple elephant?,Fallback
+user_13,2026-01-07 19:44:41.288719,price of item Y,Product_Inquiry
+user_27,2026-01-14 20:31:15.288725,speak to a representative,Customer_Service_Contact
+user_47,2025-12-26 05:44:15.288730,order arrived yet?,Check_Order
+user_11,2026-01-10 09:41:28.288736,can I speak to a purple elephant?,Fallback
+user_6,2025-12-26 10:43:39.288742,can't log into my account,Account_Assistance
+user_5,2026-01-07 03:33:55.288747,has my order shipped?,Check_Order
+user_42,2025-12-24 16:43:13.288753,prime membership issues,Account_Assistance
+user_1,2025-12-31 23:54:44.288759,greetings,Greeting
+user_19,2025-12-30 10:38:44.288765,speak to a representative,Customer_Service_Contact
+user_6,2025-12-31 00:45:30.288770,issue with my recent purchase,Refund_Request
+user_38,2026-01-18 23:22:10.288776,status of order #123,Check_Order
+user_40,2026-01-07 08:30:03.288782,manage my subscriptions,Account_Assistance
+user_44,2026-01-01 04:51:46.288788,login failed,Technical_Issue
+user_9,2026-01-06 23:05:54.288793,!!,Fallback
+user_31,2026-01-19 12:35:13.288799,what?,Fallback
+user_40,2026-01-07 22:09:44.288805,how to change my address?,Account_Assistance
+user_22,2026-01-17 09:45:23.288811,shipping update,Check_Order
+user_23,2026-01-18 01:04:44.288817,connect me to support,Customer_Service_Contact
+user_26,2026-01-01 03:56:05.288823,account suspended,Account_Assistance
+user_22,2025-12-23 09:55:37.288829,!!,Fallback
+user_6,2026-01-11 17:53:14.288835,cancel an order,Refund_Request
+user_31,2026-01-09 22:41:13.288841,wrong size,Refund_Request
+user_20,2026-01-14 03:04:54.288847,compare product A and B,Product_Inquiry
+user_48,2026-01-17 20:37:04.288853,hello,Greeting
+user_40,2026-01-08 16:38:14.288860,website not loading,Technical_Issue
+user_50,2025-12-22 02:58:17.288866,price of item Y,Product_Inquiry
+user_13,2026-01-07 00:42:17.288872,app is crashing,Technical_Issue
+user_31,2026-01-16 20:03:27.288878,I need to speak with someone,Customer_Service_Contact
+user_22,2025-12-21 19:36:31.288884,hello,Greeting
+user_43,2025-12-28 19:47:17.288890,update payment method,Account_Assistance
+user_11,2025-12-23 14:11:47.288896,return item,Refund_Request
+user_28,2026-01-11 18:48:35.288902,status of order #123,Check_Order
+user_19,2026-01-06 18:33:48.288908,website not loading,Technical_Issue
+user_49,2026-01-03 23:24:04.288914,feedback about your service,Feedback
+user_2,2026-01-05 18:46:40.288919,I have a suggestion,Feedback
+user_38,2026-01-05 22:35:55.288925,who are you?,Fallback
+user_2,2025-12-26 03:48:19.288931,prime video not working,Technical_Issue
+user_5,2026-01-02 03:21:42.288937,cancel an order,Refund_Request
+user_5,2026-01-17 20:25:22.288943,feedback about your service,Feedback
+user_8,2026-01-10 12:44:37.288949,I don't understand,Fallback
+user_40,2025-12-24 10:14:27.288955,I have a suggestion,Feedback
+user_45,2025-12-26 00:41:57.288961,speak to a representative,Customer_Service_Contact
+user_12,2026-01-10 05:41:13.288967,error 404,Technical_Issue
+user_6,2026-01-05 11:49:26.288973,can I speak to a purple elephant?,Fallback
+user_23,2026-01-04 23:02:27.288979,can I speak to a purple elephant?,Fallback
+user_44,2026-01-04 12:29:58.288985,good morning,Greeting
+user_41,2026-01-09 23:21:53.288990,error 404,Technical_Issue
+user_48,2026-01-13 14:46:40.289010,what?,Fallback
+user_34,2025-12-30 22:34:15.289016,alexa is not responding,Technical_Issue
+user_35,2026-01-16 02:10:11.289022,money back please,Refund_Request
+user_46,2025-12-31 11:12:03.289028,hey there,Greeting
+user_3,2026-01-12 06:34:33.289034,speak to a representative,Customer_Service_Contact
+user_41,2026-01-01 10:35:09.289041,talk to human agent,Customer_Service_Contact
+user_44,2025-12-27 23:59:20.289047,compare product A and B,Product_Inquiry
+user_3,2026-01-16 10:27:18.289053,price of item Y,Product_Inquiry
+user_44,2026-01-05 14:08:26.289058,return item,Refund_Request
+user_43,2025-12-29 00:33:47.289064,asdfghjkl,Fallback
+user_4,2026-01-16 11:11:34.289070,defective item,Refund_Request
+user_35,2025-12-28 18:27:49.289076,prime membership issues,Account_Assistance
+user_41,2026-01-09 15:16:42.289082,I have a suggestion,Feedback
+user_39,2026-01-10 22:44:30.289088,error 404,Technical_Issue
+user_29,2026-01-16 17:15:41.289094,asdfghjkl,Fallback
+user_8,2026-01-04 14:31:25.289100,wrong size,Refund_Request
+user_7,2026-01-09 20:26:06.289106,alexa is not responding,Technical_Issue
+user_24,2026-01-05 19:03:56.289112,manage my subscriptions,Account_Assistance
+user_27,2026-01-11 13:48:26.289118,product specifications,Product_Inquiry
+user_28,2026-01-06 20:43:46.289123,where is my package?,Check_Order
+user_48,2026-01-05 15:53:13.289129,change my password,Account_Assistance
+user_48,2026-01-09 22:50:51.289135,how to return a product?,Refund_Request
+user_29,2025-12-21 21:06:39.289141,I don't understand,Fallback
+user_50,2026-01-17 21:48:49.289146,can't log into my account,Account_Assistance
+user_15,2025-12-26 00:47:52.289152,alexa is not responding,Technical_Issue
+user_38,2026-01-02 22:54:57.289158,how to change my address?,Account_Assistance
+user_15,2026-01-14 03:30:02.289164,hey there,Greeting
+user_29,2026-01-15 22:49:42.289170,feedback about your service,Feedback
+user_26,2026-01-03 15:00:27.289175,update payment method,Account_Assistance
+user_31,2026-01-06 05:07:37.289181,return item,Refund_Request
+user_15,2026-01-06 01:52:05.289189,money back please,Refund_Request
+user_48,2026-01-02 08:31:38.289195,what are the features of this laptop?,Product_Inquiry
+user_50,2025-12-25 14:44:10.289201,compatibility questions,Product_Inquiry
+user_3,2025-12-24 08:43:22.289206,what are the features of this laptop?,Product_Inquiry
+user_16,2026-01-02 08:27:47.289212,speak to a representative,Customer_Service_Contact
+user_5,2025-12-23 04:46:38.289218,hey there,Greeting
+user_15,2026-01-20 04:23:41.289224,connect me to support,Customer_Service_Contact
+user_26,2026-01-09 21:45:50.289230,I have a suggestion,Feedback
+user_25,2026-01-12 08:34:31.289235,app is crashing,Technical_Issue
+user_34,2026-01-16 08:10:57.289241,tell me about product X,Product_Inquiry
+user_26,2026-01-17 10:48:57.289247,manage my subscriptions,Account_Assistance
+user_26,2026-01-08 23:01:22.289253,kindle not syncing,Technical_Issue
+user_19,2026-01-11 13:43:19.289258,issue with my recent purchase,Refund_Request
+user_27,2025-12-31 01:45:28.289264,order arrived yet?,Check_Order
+user_22,2026-01-01 06:57:10.289270,i want a refund,Refund_Request
+user_34,2025-12-22 17:22:36.289277,I don't understand,Fallback
+user_48,2025-12-29 00:21:25.289282,who are you?,Fallback
+user_12,2025-12-29 12:33:50.289288,asdfghjkl,Fallback
+user_15,2026-01-12 00:02:09.289294,is product Z in stock?,Product_Inquiry
+user_33,2025-12-25 13:40:49.289299,I need to speak with someone,Customer_Service_Contact
+user_40,2026-01-13 14:36:05.289305,wrong size,Refund_Request
+user_45,2025-12-24 00:53:11.289311,I don't understand,Fallback
+user_9,2026-01-07 19:35:34.289317,greetings,Greeting
+user_43,2026-01-15 23:00:36.289323,asdfghjkl,Fallback
+user_40,2026-01-07 17:14:53.289328,shipping update,Check_Order
+user_43,2025-12-23 00:31:29.289334,app is crashing,Technical_Issue
+user_49,2026-01-09 15:50:53.289340,shipping update,Check_Order
+user_24,2026-01-12 03:55:35.289346,can I get help from a person?,Customer_Service_Contact
+user_45,2026-01-01 05:35:26.289351,I have a suggestion,Feedback
+user_24,2025-12-25 21:16:55.289358,website not loading,Technical_Issue
+user_25,2025-12-25 06:26:52.289364,talk to human agent,Customer_Service_Contact
+user_19,2026-01-03 16:02:35.289370,compare product A and B,Product_Inquiry
+user_27,2026-01-14 02:27:54.289376,I have a suggestion,Feedback
+user_5,2026-01-19 11:49:16.289382,what are the features of this laptop?,Product_Inquiry
+user_7,2026-01-02 09:01:48.289388,speak to a representative,Customer_Service_Contact
+user_14,2026-01-18 21:47:38.289394,rate my experience,Feedback
+user_44,2025-12-20 23:49:23.289400,hey there,Greeting
+user_3,2026-01-11 04:16:20.289444,hey there,Greeting
+user_6,2025-12-31 11:09:48.289451,product specifications,Product_Inquiry
+user_36,2026-01-06 12:53:19.289457,app is crashing,Technical_Issue
+user_28,2025-12-21 12:50:56.289463,error 404,Technical_Issue
+user_25,2026-01-17 22:45:43.289469,can I track my recent purchase?,Check_Order
+user_40,2025-12-20 19:23:42.289475,good morning,Greeting
+user_21,2025-12-29 10:17:56.289481,money back please,Refund_Request
+user_48,2026-01-18 12:53:24.289486,how to return a product?,Refund_Request
+user_38,2026-01-10 13:27:16.289492,manage my subscriptions,Account_Assistance
+user_10,2026-01-11 07:43:22.289498,cancel an order,Refund_Request
+user_48,2025-12-30 12:21:06.289504,cannot access my account,Technical_Issue
+user_27,2025-12-21 13:35:58.289509,return item,Refund_Request
+user_11,2025-12-29 11:22:04.289515,!!,Fallback
+user_9,2026-01-06 05:12:13.289521,has my order shipped?,Check_Order
+user_5,2026-01-04 05:47:57.289527,I need to speak with someone,Customer_Service_Contact
+user_26,2026-01-12 07:24:47.289533,I don't understand,Fallback
+user_3,2025-12-30 23:25:01.289539,greetings,Greeting
+user_7,2025-12-29 10:46:26.289545,product specifications,Product_Inquiry
+user_29,2026-01-08 15:22:58.289550,I need to speak with someone,Customer_Service_Contact
+user_16,2025-12-22 22:27:14.289556,tell me about product X,Product_Inquiry
+user_10,2026-01-05 07:56:08.289562,can I get help from a person?,Customer_Service_Contact
+user_3,2025-12-21 18:12:19.289568,who are you?,Fallback
+user_36,2025-12-25 06:51:55.289574,track order,Check_Order
+user_23,2025-12-30 23:43:26.289580,can I speak to a purple elephant?,Fallback
+user_31,2025-12-25 06:30:51.289586,rate my experience,Feedback
+user_45,2026-01-15 22:28:45.289591,what are the features of this laptop?,Product_Inquiry
+user_12,2026-01-16 03:42:01.289597,can I speak to a purple elephant?,Fallback
+user_40,2025-12-23 05:40:09.289603,feedback about your service,Feedback
+user_41,2026-01-18 00:20:23.289609,I have a suggestion,Feedback
+user_27,2025-12-24 20:21:01.289615,talk to human agent,Customer_Service_Contact
+user_34,2025-12-20 13:29:36.289621,how to return a product?,Refund_Request
+user_4,2025-12-29 19:27:08.289626,I don't understand,Fallback
+user_16,2026-01-07 18:40:46.289632,compare product A and B,Product_Inquiry
+user_35,2026-01-19 22:45:56.289638,return item,Refund_Request
+user_11,2025-12-27 09:29:40.289643,hello,Greeting
+user_28,2025-12-31 08:44:49.289649,can I speak to a purple elephant?,Fallback
+user_31,2026-01-17 23:24:22.289655,can I track my recent purchase?,Check_Order
+user_35,2025-12-26 13:58:17.289661,can't log into my account,Account_Assistance
+user_16,2025-12-26 01:20:06.289667,defective item,Refund_Request
+user_38,2026-01-04 15:36:24.289673,what?,Fallback
+user_23,2026-01-02 07:03:59.289679,I have a suggestion,Feedback
+user_29,2026-01-10 03:08:19.289685,order arrived yet?,Check_Order
+user_47,2025-12-24 07:09:28.289691,I have a suggestion,Feedback
+user_18,2026-01-13 11:20:56.289697,feedback about your service,Feedback
+user_38,2026-01-12 08:14:13.289703,greetings,Greeting
+user_28,2026-01-14 18:54:20.289709,I have a suggestion,Feedback
+user_8,2025-12-28 04:14:20.289716,website not loading,Technical_Issue
+user_6,2026-01-19 05:49:29.289722,who are you?,Fallback
+user_5,2026-01-04 07:29:21.289728,alexa is not responding,Technical_Issue
+user_31,2025-12-27 07:52:35.289733,feedback about your service,Feedback
+user_42,2025-12-25 22:29:13.289739,can't log into my account,Account_Assistance
+user_31,2026-01-14 09:46:42.289745,talk to human agent,Customer_Service_Contact
+user_46,2026-01-13 00:27:41.289751,compatibility questions,Product_Inquiry
+user_48,2026-01-02 15:01:53.289757,website not loading,Technical_Issue
+user_31,2026-01-09 02:58:16.289762,how to change my address?,Account_Assistance
+user_49,2026-01-16 17:44:30.289768,i want a refund,Refund_Request
+user_6,2026-01-14 05:21:49.289774,price of item Y,Product_Inquiry
+user_33,2025-12-27 09:39:32.289780,kindle not syncing,Technical_Issue
+user_50,2026-01-02 14:12:30.289785,!!,Fallback
+user_18,2026-01-06 03:17:45.289791,speak to a representative,Customer_Service_Contact
+user_11,2026-01-17 12:06:27.289797,!!,Fallback
+user_41,2025-12-30 12:04:11.289803,greetings,Greeting
+user_48,2025-12-25 12:35:59.289808,price of item Y,Product_Inquiry
+user_19,2026-01-17 11:28:26.289814,good morning,Greeting
+user_9,2026-01-03 08:02:09.289820,shipping update,Check_Order
+user_30,2025-12-20 21:34:54.289826,can't log into my account,Account_Assistance
+user_2,2025-12-29 22:45:23.289831,can I get help from a person?,Customer_Service_Contact
+user_26,2025-12-23 20:30:32.289837,return item,Refund_Request
+user_26,2026-01-05 23:34:14.289843,website not loading,Technical_Issue
+user_20,2026-01-15 03:32:49.289849,rate my experience,Feedback
+user_16,2026-01-10 21:45:38.289856,tell me about product X,Product_Inquiry
+user_50,2026-01-01 10:46:42.289862,app is crashing,Technical_Issue
+user_12,2026-01-18 21:44:33.289868,I need to speak with someone,Customer_Service_Contact
+user_48,2025-12-22 23:04:31.289874,update payment method,Account_Assistance
+user_32,2026-01-19 02:54:18.289880,track order,Check_Order
+user_11,2026-01-12 00:50:22.289886,app is crashing,Technical_Issue
+user_42,2026-01-08 09:23:08.289891,defective item,Refund_Request
+user_38,2026-01-12 07:17:27.289897,change my password,Account_Assistance
+user_20,2025-12-26 07:07:39.289903,app is crashing,Technical_Issue
+user_18,2026-01-09 09:03:53.289909,kindle not syncing,Technical_Issue
+user_30,2025-12-31 05:31:51.289914,how to change my address?,Account_Assistance
+user_27,2026-01-03 05:39:19.289920,can I get help from a person?,Customer_Service_Contact
+user_10,2026-01-04 14:34:46.289926,change my password,Account_Assistance
+user_20,2025-12-31 05:40:24.289932,!!,Fallback
+user_43,2026-01-06 15:23:36.289938,can I get help from a person?,Customer_Service_Contact
+user_21,2026-01-06 17:28:40.289943,can I speak to a purple elephant?,Fallback
+user_1,2026-01-15 10:46:19.289949,greetings,Greeting
+user_15,2025-12-27 18:05:32.289955,price of item Y,Product_Inquiry
+user_21,2026-01-01 23:17:26.289961,order arrived yet?,Check_Order
+user_1,2026-01-14 08:10:29.289966,hi,Greeting
+user_11,2026-01-06 07:03:09.289972,can I get help from a person?,Customer_Service_Contact
+user_47,2026-01-11 01:45:48.289978,missing package,Check_Order
+user_15,2025-12-26 14:36:44.289984,kindle not syncing,Technical_Issue
+user_10,2025-12-21 19:14:26.289989,login failed,Technical_Issue
+user_45,2026-01-17 14:50:54.289995,account suspended,Account_Assistance
+user_29,2026-01-09 05:41:51.290001,can I get help from a person?,Customer_Service_Contact
+user_43,2026-01-13 05:38:38.290006,I need to speak with someone,Customer_Service_Contact
+user_12,2026-01-13 18:08:21.290012,price of item Y,Product_Inquiry
+user_13,2026-01-16 21:28:48.290021,prime membership issues,Account_Assistance
+user_46,2026-01-19 18:41:43.290029,prime video not working,Technical_Issue
+user_23,2026-01-18 11:56:45.290035,prime membership issues,Account_Assistance
+user_5,2026-01-06 12:10:56.290041,login failed,Technical_Issue
+user_9,2026-01-16 01:53:10.290047,kindle not syncing,Technical_Issue
+user_14,2025-12-31 09:05:32.290053,hi,Greeting
+user_12,2025-12-27 02:25:50.290059,speak to a representative,Customer_Service_Contact
+user_18,2026-01-08 00:55:07.290064,I need to speak with someone,Customer_Service_Contact
+user_45,2026-01-15 06:03:05.290070,hello,Greeting
+user_19,2025-12-24 13:39:31.290076,hello,Greeting
+user_34,2025-12-31 14:13:07.290082,can't log into my account,Account_Assistance
+user_40,2025-12-24 02:51:24.290088,money back please,Refund_Request
+user_33,2025-12-20 14:37:18.290094,hey there,Greeting
+user_50,2026-01-10 10:19:57.290100,hi,Greeting
+user_20,2025-12-22 00:16:50.290106,defective item,Refund_Request
+user_31,2025-12-29 11:18:35.290112,product specifications,Product_Inquiry
+user_30,2025-12-24 08:33:17.290118,alexa is not responding,Technical_Issue
+user_28,2025-12-30 22:48:50.290123,price of item Y,Product_Inquiry
+user_33,2026-01-19 12:28:19.290129,money back please,Refund_Request
+user_27,2026-01-03 21:52:33.290135,has my order shipped?,Check_Order
+user_39,2026-01-13 15:08:39.290141,good morning,Greeting
+user_8,2025-12-23 22:23:27.290146,change my password,Account_Assistance
+user_1,2025-12-28 14:41:27.290152,can I track my recent purchase?,Check_Order
+user_5,2026-01-15 17:17:47.290158,greetings,Greeting
+user_23,2026-01-18 14:45:34.290164,speak to a representative,Customer_Service_Contact
+user_47,2026-01-12 18:16:40.290169,greetings,Greeting
+user_48,2026-01-02 04:50:34.290175,talk to human agent,Customer_Service_Contact
+user_11,2026-01-13 23:58:00.290181,return item,Refund_Request
+user_33,2025-12-21 16:22:00.290189,connect me to support,Customer_Service_Contact
+user_48,2026-01-15 18:29:09.290195,error 404,Technical_Issue
+user_1,2025-12-26 11:48:04.290200,can't log into my account,Account_Assistance
+user_37,2025-12-20 22:18:39.290206,greetings,Greeting
+user_4,2025-12-24 12:36:42.290212,feedback about your service,Feedback
+user_7,2025-12-26 20:41:12.290218,good morning,Greeting
+user_18,2025-12-30 15:03:50.290224,greetings,Greeting
+user_46,2025-12-24 11:27:35.290229,issue with my recent purchase,Refund_Request
+user_19,2025-12-26 01:45:09.290235,I need to speak with someone,Customer_Service_Contact
+user_7,2026-01-01 15:14:02.290241,compatibility questions,Product_Inquiry
+user_33,2026-01-16 14:24:20.290246,how to change my address?,Account_Assistance
+user_39,2026-01-17 13:57:36.290252,compatibility questions,Product_Inquiry
+user_11,2026-01-06 07:27:54.290258,price of item Y,Product_Inquiry
+user_24,2026-01-04 06:33:15.290263,hello,Greeting
+user_13,2025-12-23 23:24:50.290269,can I speak to a purple elephant?,Fallback
+user_6,2026-01-02 14:40:38.290275,I have a suggestion,Feedback
+user_43,2026-01-14 01:15:09.290281,delivery date for my order,Check_Order
+user_8,2026-01-14 09:56:08.290287,kindle not syncing,Technical_Issue
+user_31,2025-12-24 17:29:17.290293,how to change my address?,Account_Assistance
+user_40,2025-12-22 04:14:54.290298,delivery date for my order,Check_Order
+user_30,2025-12-21 09:15:30.290304,I need to speak with someone,Customer_Service_Contact
+user_9,2026-01-18 23:17:56.290310,manage my subscriptions,Account_Assistance
+user_3,2026-01-06 05:15:31.290316,!!,Fallback
+user_36,2026-01-07 17:09:26.290321,what?,Fallback
+user_39,2026-01-20 11:03:51.290327,rate my experience,Feedback
+user_39,2026-01-09 19:36:44.290333,my item is damaged,Refund_Request
+user_34,2026-01-14 08:07:40.290339,kindle not syncing,Technical_Issue
+user_12,2026-01-16 20:58:40.290344,money back please,Refund_Request
+user_19,2026-01-19 23:25:19.290350,account suspended,Account_Assistance
+user_10,2026-01-12 08:05:17.290356,how to change my address?,Account_Assistance
+user_21,2026-01-01 03:20:43.290362,change my password,Account_Assistance
+user_43,2026-01-18 04:14:28.290368,hi,Greeting
+user_1,2025-12-26 23:13:36.290374,issue with my recent purchase,Refund_Request
+user_50,2026-01-01 08:23:32.290380,who are you?,Fallback
+user_28,2025-12-31 02:18:55.290385,hello,Greeting
+user_19,2026-01-12 05:57:34.290392,hey there,Greeting
+user_31,2026-01-06 06:43:29.290397,can't log into my account,Account_Assistance
+user_15,2025-12-31 15:59:17.290403,what are the features of this laptop?,Product_Inquiry
+user_42,2026-01-14 17:04:57.290444,money back please,Refund_Request
+user_27,2026-01-08 04:44:40.290454,good morning,Greeting
+user_37,2026-01-08 18:59:54.290460,cancel an order,Refund_Request
+user_41,2025-12-20 16:15:03.290466,compare product A and B,Product_Inquiry
+user_1,2025-12-29 19:17:11.290472,my item is damaged,Refund_Request
+user_13,2026-01-10 02:20:46.290478,kindle not syncing,Technical_Issue
+user_24,2026-01-01 22:54:46.290484,login failed,Technical_Issue
+user_17,2026-01-15 18:11:44.290490,website not loading,Technical_Issue
+user_16,2026-01-15 00:15:54.290495,my item is damaged,Refund_Request
+user_3,2025-12-22 00:25:00.290501,talk to human agent,Customer_Service_Contact
+user_31,2026-01-12 07:45:24.290507,I don't understand,Fallback
+user_18,2026-01-09 04:34:07.290513,good morning,Greeting
+user_7,2025-12-23 06:10:23.290519,money back please,Refund_Request
+user_26,2026-01-19 06:44:30.290525,connect me to support,Customer_Service_Contact
+user_32,2026-01-17 00:05:11.290531,hello,Greeting
+user_16,2026-01-11 17:05:54.290537,rate my experience,Feedback
+user_48,2026-01-04 00:14:09.290542,compare product A and B,Product_Inquiry
+user_41,2026-01-15 01:57:16.290548,I have a suggestion,Feedback
+user_6,2025-12-28 18:52:39.290554,shipping update,Check_Order
+user_13,2026-01-08 02:24:14.290560,how to change my address?,Account_Assistance
+user_22,2025-12-24 03:24:37.290566,error 404,Technical_Issue
+user_30,2025-12-31 00:54:13.290572,I don't understand,Fallback
+user_10,2025-12-27 20:50:03.290578,speak to a representative,Customer_Service_Contact
+user_44,2026-01-11 03:57:32.290583,hey there,Greeting
+user_49,2026-01-11 07:07:13.290589,how to return a product?,Refund_Request
+user_7,2026-01-14 22:57:39.290595,!!,Fallback
+user_43,2025-12-28 17:28:43.290601,return item,Refund_Request
+user_15,2025-12-28 06:58:31.290607,can't log into my account,Account_Assistance
+user_5,2026-01-11 15:35:37.290612,how to change my address?,Account_Assistance
+user_15,2025-12-27 20:25:43.290618,change my password,Account_Assistance
+user_9,2026-01-11 15:01:05.290624,greetings,Greeting
+user_31,2026-01-04 08:49:23.290630,shipping update,Check_Order
+user_10,2026-01-03 23:56:45.290636,connect me to support,Customer_Service_Contact
+user_46,2026-01-02 11:18:10.290642,where is my package?,Check_Order
+user_11,2026-01-12 14:32:09.290647,how to return a product?,Refund_Request
+user_36,2026-01-04 00:01:50.290653,I need to speak with someone,Customer_Service_Contact
+user_29,2025-12-30 13:00:28.290659,issue with my recent purchase,Refund_Request
+user_49,2026-01-19 10:29:35.290665,error 404,Technical_Issue
+user_39,2025-12-20 18:24:46.290670,feedback about your service,Feedback
+user_38,2026-01-15 04:54:14.290676,connect me to support,Customer_Service_Contact
+user_1,2026-01-06 17:20:47.290682,speak to a representative,Customer_Service_Contact
+user_34,2026-01-03 21:18:32.290687,asdfghjkl,Fallback
+user_34,2026-01-09 01:42:45.290693,login failed,Technical_Issue
+user_48,2025-12-23 03:53:18.290699,has my order shipped?,Check_Order
+user_46,2026-01-06 12:12:30.290704,can I get help from a person?,Customer_Service_Contact
+user_31,2026-01-09 20:51:50.290710,connect me to support,Customer_Service_Contact
+user_45,2026-01-06 10:57:27.290716,I have a suggestion,Feedback
+user_20,2025-12-20 20:51:43.290721,order arrived yet?,Check_Order
+user_20,2026-01-19 12:04:53.290727,product specifications,Product_Inquiry
+user_34,2026-01-20 10:28:55.290733,return item,Refund_Request
+user_40,2025-12-30 09:29:23.290739,kindle not syncing,Technical_Issue
+user_45,2025-12-25 04:33:54.290745,hey there,Greeting
+user_18,2025-12-30 00:52:53.290750,compare product A and B,Product_Inquiry
+user_29,2025-12-29 12:33:12.290757,manage my subscriptions,Account_Assistance
+user_36,2026-01-02 10:01:47.290762,hi,Greeting
+user_21,2026-01-07 08:14:02.290768,speak to a representative,Customer_Service_Contact
+user_43,2025-12-27 16:08:27.290774,I need to speak with someone,Customer_Service_Contact
+user_11,2026-01-12 12:38:52.290780,missing package,Check_Order
+user_2,2026-01-17 12:39:59.290785,tell me about product X,Product_Inquiry
+user_24,2025-12-25 17:09:39.290791,is product Z in stock?,Product_Inquiry
+user_14,2026-01-01 22:15:17.290797,account suspended,Account_Assistance
+user_34,2025-12-31 02:26:02.290803,hello,Greeting
+user_16,2026-01-04 08:21:05.290826,my item is damaged,Refund_Request
+user_41,2026-01-02 18:46:22.290835,tell me about product X,Product_Inquiry
+user_3,2026-01-18 05:08:50.290925,who are you?,Fallback
+user_39,2026-01-18 10:43:59.290935,can I speak to a purple elephant?,Fallback
+user_13,2026-01-10 20:14:50.290944,good morning,Greeting
+user_31,2026-01-15 10:52:15.290952,money back please,Refund_Request
+user_8,2026-01-03 09:21:48.290961,I don't understand,Fallback
+user_9,2025-12-24 11:52:44.290969,delivery date for my order,Check_Order
+user_44,2026-01-13 03:37:56.290978,kindle not syncing,Technical_Issue
+user_30,2025-12-23 07:04:45.290986,I have a suggestion,Feedback
+user_2,2026-01-01 19:37:01.290995,rate my experience,Feedback
+user_47,2025-12-30 09:37:04.291004,feedback about your service,Feedback
+user_23,2026-01-12 08:08:01.291014,account suspended,Account_Assistance
+user_9,2026-01-08 03:33:20.291023,connect me to support,Customer_Service_Contact
+user_3,2025-12-24 23:27:04.291034,what?,Fallback
+user_9,2026-01-10 06:39:47.291042,product specifications,Product_Inquiry
+user_13,2026-01-18 13:02:40.291050,I need to speak with someone,Customer_Service_Contact
+user_33,2025-12-23 00:39:33.291059,manage my subscriptions,Account_Assistance
+user_22,2026-01-19 14:36:34.291067,can I get help from a person?,Customer_Service_Contact
+user_37,2026-01-12 02:14:17.291076,can I speak to a purple elephant?,Fallback
+user_32,2026-01-18 22:09:40.291084,account suspended,Account_Assistance
+user_41,2026-01-06 14:43:56.291092,i want a refund,Refund_Request
+user_44,2026-01-03 04:42:25.291101,greetings,Greeting
+user_11,2026-01-12 05:04:56.291111,login failed,Technical_Issue
+user_16,2026-01-01 06:15:17.291120,what?,Fallback
+user_21,2026-01-02 01:52:01.291129,login failed,Technical_Issue
+user_14,2025-12-25 12:09:38.291138,return item,Refund_Request
+user_14,2026-01-05 02:40:04.291147,asdfghjkl,Fallback
+user_21,2026-01-09 04:43:37.291158,compatibility questions,Product_Inquiry
+user_43,2025-12-27 01:20:11.291168,rate my experience,Feedback
+user_39,2026-01-06 01:58:05.291176,account suspended,Account_Assistance
+user_11,2025-12-21 22:38:45.291185,is product Z in stock?,Product_Inquiry
+user_28,2026-01-04 21:36:24.291194,how to return a product?,Refund_Request
+user_49,2026-01-18 22:24:10.291203,where is my package?,Check_Order
+user_21,2026-01-18 13:49:08.291211,issue with my recent purchase,Refund_Request
+user_29,2026-01-18 10:15:58.291221,hi,Greeting
+user_32,2026-01-05 09:04:17.291229,update payment method,Account_Assistance
+user_46,2026-01-07 09:06:06.291238,can I get help from a person?,Customer_Service_Contact
+user_14,2026-01-09 13:21:49.291248,missing package,Check_Order
+user_35,2026-01-14 18:18:54.291258,can't log into my account,Account_Assistance
+user_34,2025-12-31 01:22:02.291267,what?,Fallback
+user_35,2026-01-01 09:53:20.291277,can I track my recent purchase?,Check_Order
+user_40,2026-01-11 19:25:04.291287,manage my subscriptions,Account_Assistance
+user_22,2025-12-27 20:19:19.291295,I don't understand,Fallback
+user_47,2025-12-27 12:27:36.291305,can I get help from a person?,Customer_Service_Contact
+user_46,2026-01-04 14:18:47.291315,defective item,Refund_Request
+user_16,2025-12-25 18:15:20.291326,missing package,Check_Order
+user_25,2025-12-27 18:00:22.291334,speak to a representative,Customer_Service_Contact
+user_5,2025-12-25 05:20:23.291344,I need to speak with someone,Customer_Service_Contact
+user_19,2026-01-12 03:46:35.291354,I don't understand,Fallback
+user_34,2026-01-07 15:14:05.291365,prime video not working,Technical_Issue
+user_23,2026-01-02 05:35:31.291375,kindle not syncing,Technical_Issue
+user_38,2026-01-14 18:01:42.291385,I need to speak with someone,Customer_Service_Contact
+user_26,2025-12-23 20:40:15.291395,I have a suggestion,Feedback
+user_21,2025-12-24 19:04:39.291424,has my order shipped?,Check_Order
+user_29,2026-01-12 04:34:07.291442,cannot access my account,Technical_Issue
+user_33,2026-01-19 18:09:23.291451,hi,Greeting
+user_23,2026-01-20 06:36:23.291461,how to return a product?,Refund_Request
+user_29,2026-01-08 22:04:57.291469,wrong size,Refund_Request
+user_45,2025-12-27 16:53:07.291478,feedback about your service,Feedback
+user_30,2025-12-22 08:14:51.291488,website not loading,Technical_Issue
+user_43,2026-01-18 16:17:48.291496,delivery date for my order,Check_Order
+user_8,2026-01-01 01:48:26.291505,shipping update,Check_Order
+user_14,2025-12-25 20:03:42.291513,hi,Greeting
+user_36,2025-12-24 05:41:52.291523,feedback about your service,Feedback
+user_37,2025-12-29 05:17:32.291532,can I get help from a person?,Customer_Service_Contact
+user_5,2026-01-15 16:51:23.291540,status of order #123,Check_Order
+user_28,2026-01-10 08:22:09.291549,cancel an order,Refund_Request
+user_5,2026-01-13 08:44:35.291559,how to change my address?,Account_Assistance
+user_15,2026-01-04 04:05:28.291569,can I speak to a purple elephant?,Fallback
+user_13,2025-12-28 11:56:00.291578,!!,Fallback
+user_27,2026-01-07 15:46:24.291588,asdfghjkl,Fallback
+user_41,2025-12-21 06:20:54.291597,connect me to support,Customer_Service_Contact
+user_25,2026-01-12 08:50:27.291606,can I track my recent purchase?,Check_Order
+user_7,2025-12-31 23:17:52.291616,kindle not syncing,Technical_Issue
+user_27,2026-01-14 16:50:28.291625,can't log into my account,Account_Assistance
+user_46,2026-01-17 16:16:47.291634,login failed,Technical_Issue
+user_10,2025-12-23 03:21:47.291642,what are the features of this laptop?,Product_Inquiry
+user_7,2025-12-27 04:34:50.291651,delivery date for my order,Check_Order
+user_1,2025-12-20 15:41:25.291661,hi,Greeting
+user_44,2025-12-20 19:25:20.291671,greetings,Greeting
+user_6,2026-01-01 17:27:12.291680,speak to a representative,Customer_Service_Contact
+user_30,2025-12-24 10:09:45.291690,I have a suggestion,Feedback
+user_44,2026-01-12 22:01:37.291700,good morning,Greeting
+user_7,2025-12-24 10:58:23.291709,how to return a product?,Refund_Request
+user_6,2026-01-06 06:10:01.291721,how to return a product?,Refund_Request
+user_12,2025-12-23 01:10:33.291731,return item,Refund_Request
+user_6,2026-01-01 15:06:52.291740,talk to human agent,Customer_Service_Contact
+user_18,2026-01-08 02:42:06.291750,price of item Y,Product_Inquiry
+user_20,2025-12-29 04:06:34.291760,manage my subscriptions,Account_Assistance
+user_15,2026-01-19 17:16:07.291771,status of order #123,Check_Order
+user_40,2025-12-30 09:41:42.291782,talk to human agent,Customer_Service_Contact
+user_33,2026-01-03 20:50:01.291792,kindle not syncing,Technical_Issue
+user_16,2026-01-14 11:37:39.291802,login failed,Technical_Issue
+user_28,2026-01-01 05:26:33.291813,is product Z in stock?,Product_Inquiry
+user_1,2025-12-21 22:22:50.291823,hi,Greeting
+user_27,2025-12-29 21:01:25.291832,track order,Check_Order
+user_21,2026-01-13 13:25:26.291842,hello,Greeting
+user_45,2025-12-27 16:14:30.291852,what?,Fallback
+user_24,2025-12-29 06:39:58.291863,rate my experience,Feedback
+user_43,2026-01-07 23:11:16.291873,delivery date for my order,Check_Order
+user_27,2026-01-11 22:57:23.291882,hey there,Greeting
+user_48,2025-12-27 18:15:19.291890,my item is damaged,Refund_Request
+user_29,2025-12-22 02:17:10.291899,missing package,Check_Order
+user_26,2026-01-18 08:49:57.291908,change my password,Account_Assistance
+user_40,2026-01-02 06:49:04.291917,kindle not syncing,Technical_Issue
+user_33,2026-01-10 04:39:07.291924,asdfghjkl,Fallback
+user_3,2026-01-13 12:17:23.291932,I have a suggestion,Feedback
+user_29,2026-01-19 20:10:58.291940,talk to human agent,Customer_Service_Contact
+user_9,2025-12-26 12:37:28.291948,compare product A and B,Product_Inquiry
+user_3,2026-01-01 09:42:11.291957,issue with my recent purchase,Refund_Request
+user_20,2026-01-02 04:51:20.292132,hey there,Greeting
+user_39,2026-01-09 13:17:37.292146,track order,Check_Order
+user_16,2025-12-23 19:14:57.292154,order arrived yet?,Check_Order
+user_35,2025-12-24 05:27:58.292163,wrong size,Refund_Request
+user_20,2026-01-02 13:22:36.292172,speak to a representative,Customer_Service_Contact
+user_12,2026-01-15 19:56:23.292180,my item is damaged,Refund_Request
+user_40,2025-12-24 04:25:24.292201,I have a suggestion,Feedback
+user_23,2026-01-10 12:10:04.292210,i want a refund,Refund_Request
+user_18,2026-01-10 06:29:46.292218,good morning,Greeting
+user_6,2026-01-03 19:20:09.292227,how to change my address?,Account_Assistance
+user_34,2026-01-19 09:09:07.292235,hello,Greeting
+user_19,2026-01-20 05:50:56.292246,cannot access my account,Technical_Issue
+user_48,2026-01-13 04:40:50.292255,login failed,Technical_Issue
+user_48,2025-12-23 00:56:54.292264,I have a suggestion,Feedback
+user_25,2025-12-31 22:54:36.292273,rate my experience,Feedback
+user_40,2026-01-16 17:07:15.292281,delivery date for my order,Check_Order
+user_7,2026-01-11 04:28:56.292290,wrong size,Refund_Request
+user_3,2025-12-28 02:03:11.292298,shipping update,Check_Order
+user_6,2026-01-06 03:28:57.292307,track order,Check_Order
+user_11,2026-01-12 18:27:29.292316,shipping update,Check_Order
+user_8,2025-12-20 13:08:00.292325,can't log into my account,Account_Assistance
+user_33,2025-12-26 17:36:22.292333,money back please,Refund_Request
+user_36,2025-12-25 18:29:34.292342,hello,Greeting
+user_11,2025-12-25 23:49:55.292351,compare product A and B,Product_Inquiry
+user_43,2026-01-03 21:35:16.292360,can't log into my account,Account_Assistance
+user_10,2026-01-15 10:52:08.292368,rate my experience,Feedback
+user_3,2025-12-22 17:58:50.292376,prime video not working,Technical_Issue
+user_25,2026-01-01 01:12:58.292385,my item is damaged,Refund_Request
+user_28,2026-01-09 00:56:12.292394,connect me to support,Customer_Service_Contact
+user_44,2026-01-10 08:54:21.292403,compare product A and B,Product_Inquiry
+user_35,2026-01-07 03:55:21.292433,money back please,Refund_Request
+user_48,2026-01-07 04:07:43.292443,tell me about product X,Product_Inquiry
+user_9,2025-12-27 14:19:39.292451,good morning,Greeting
+user_3,2025-12-30 09:05:45.292460,hello,Greeting
+user_24,2026-01-08 06:39:00.292468,talk to human agent,Customer_Service_Contact
+user_21,2025-12-22 19:16:35.292477,has my order shipped?,Check_Order
+user_38,2025-12-23 03:12:22.292487,I have a suggestion,Feedback
+user_42,2026-01-02 00:28:35.293052,greetings,Greeting
+user_40,2025-12-26 00:16:58.293074,I don't understand,Fallback
+user_37,2026-01-13 04:42:09.293084,price of item Y,Product_Inquiry
+user_45,2026-01-03 10:33:43.293466,has my order shipped?,Check_Order
+user_32,2026-01-15 10:59:54.293482,I need to speak with someone,Customer_Service_Contact
+user_34,2026-01-08 17:50:45.293493,price of item Y,Product_Inquiry
+user_12,2025-12-29 03:51:50.293505,connect me to support,Customer_Service_Contact
+user_6,2026-01-05 03:01:19.293516,shipping update,Check_Order
+user_41,2026-01-08 20:42:16.293526,good morning,Greeting
+user_14,2026-01-04 13:54:14.293537,change my password,Account_Assistance
+user_20,2026-01-16 01:22:47.293546,order arrived yet?,Check_Order
+user_3,2025-12-24 13:40:03.293556,I have a suggestion,Feedback
+user_36,2026-01-12 03:24:28.293566,prime membership issues,Account_Assistance
+user_34,2025-12-25 23:18:52.293576,rate my experience,Feedback
+user_9,2026-01-19 17:13:32.293587,asdfghjkl,Fallback
+user_25,2025-12-28 02:39:43.293596,wrong size,Refund_Request
+user_40,2025-12-21 06:18:10.293605,!!,Fallback
+user_18,2026-01-06 10:18:59.293614,delivery date for my order,Check_Order
+user_45,2025-12-26 10:29:33.293664,cannot access my account,Technical_Issue
+user_6,2026-01-12 23:21:24.293673,can I track my recent purchase?,Check_Order
+user_21,2026-01-10 12:55:51.293682,my item is damaged,Refund_Request
+user_15,2026-01-03 22:21:32.293690,i want a refund,Refund_Request
+user_7,2026-01-09 17:23:00.293699,hello,Greeting
+user_33,2025-12-23 23:50:39.293709,hi,Greeting
+user_21,2025-12-23 15:39:21.293719,error 404,Technical_Issue
+user_13,2026-01-03 04:15:55.293728,manage my subscriptions,Account_Assistance
+user_32,2026-01-08 13:14:28.293737,I have a suggestion,Feedback
+user_18,2025-12-20 12:31:25.293745,!!,Fallback
+user_10,2026-01-02 21:48:58.293755,login failed,Technical_Issue
+user_22,2026-01-16 05:43:37.293764,rate my experience,Feedback
+user_39,2025-12-30 01:43:36.293772,I have a suggestion,Feedback
+user_12,2026-01-08 17:51:35.293782,what?,Fallback
+user_43,2025-12-27 18:19:27.293792,change my password,Account_Assistance
+user_41,2026-01-17 04:29:15.293807,hey there,Greeting
+user_8,2026-01-12 21:41:50.293816,what?,Fallback
+user_28,2025-12-27 21:44:53.293822,who are you?,Fallback
+user_15,2026-01-08 16:57:14.293828,can I get help from a person?,Customer_Service_Contact
+user_6,2026-01-06 11:40:17.293834,hi,Greeting
+user_4,2025-12-31 18:36:00.293840,track order,Check_Order
+user_8,2026-01-05 18:31:44.293868,alexa is not responding,Technical_Issue
+user_11,2026-01-12 19:16:59.293879,talk to human agent,Customer_Service_Contact
+user_9,2026-01-17 02:24:50.293889,I have a suggestion,Feedback
+user_20,2025-12-31 11:58:12.293899,what?,Fallback
+user_16,2026-01-06 19:06:09.293912,missing package,Check_Order
+user_46,2026-01-07 06:28:17.293918,defective item,Refund_Request
+user_7,2025-12-27 23:01:26.293924,good morning,Greeting
+user_2,2026-01-10 13:44:16.293930,speak to a representative,Customer_Service_Contact
+user_20,2026-01-18 18:48:53.293936,is product Z in stock?,Product_Inquiry
+user_12,2026-01-10 19:04:28.293942,manage my subscriptions,Account_Assistance
+user_11,2026-01-05 03:32:01.293948,what?,Fallback
+user_3,2025-12-29 13:06:45.293954,website not loading,Technical_Issue
+user_34,2025-12-26 22:34:00.293959,defective item,Refund_Request
+user_30,2026-01-06 01:00:46.293965,how to change my address?,Account_Assistance
+user_28,2026-01-06 15:15:06.293971,!!,Fallback
+user_45,2026-01-02 16:46:36.293977,feedback about your service,Feedback
+user_23,2025-12-29 11:44:40.293983,rate my experience,Feedback
+user_7,2026-01-03 07:05:02.293989,compatibility questions,Product_Inquiry
+user_36,2025-12-31 19:07:50.293995,good morning,Greeting
+user_16,2026-01-05 00:33:07.294001,I don't understand,Fallback
+user_28,2025-12-30 11:58:05.294007,!!,Fallback
+user_44,2026-01-16 01:52:50.294013,hey there,Greeting
+user_5,2026-01-02 19:29:48.294019,I don't understand,Fallback
+user_8,2026-01-12 21:31:16.294026,rate my experience,Feedback
+user_40,2025-12-22 03:14:47.294032,app is crashing,Technical_Issue
+user_46,2026-01-10 09:49:32.294038,what are the features of this laptop?,Product_Inquiry
+user_50,2026-01-17 17:32:48.294044,what are the features of this laptop?,Product_Inquiry
+user_28,2026-01-05 02:56:25.294050,status of order #123,Check_Order
+user_33,2025-12-31 20:46:21.294055,what are the features of this laptop?,Product_Inquiry
+user_34,2026-01-14 19:23:42.294061,update payment method,Account_Assistance
+user_13,2026-01-15 15:09:50.294067,can I get help from a person?,Customer_Service_Contact
+user_11,2026-01-07 22:02:08.294072,has my order shipped?,Check_Order
+user_30,2025-12-30 06:16:14.294078,app is crashing,Technical_Issue
+user_30,2026-01-12 17:24:14.294084,feedback about your service,Feedback
+user_21,2026-01-04 00:54:43.294090,where is my package?,Check_Order
+user_5,2026-01-10 07:47:55.294096,manage my subscriptions,Account_Assistance
+user_40,2026-01-01 17:31:18.294101,change my password,Account_Assistance
+user_8,2026-01-12 18:03:36.294107,good morning,Greeting
+user_42,2025-12-27 13:19:13.294113,track order,Check_Order
+user_30,2026-01-11 05:01:53.294119,can I get help from a person?,Customer_Service_Contact
+user_11,2025-12-22 11:42:38.294124,good morning,Greeting
+user_50,2025-12-24 00:45:36.294130,kindle not syncing,Technical_Issue
+user_46,2026-01-07 04:52:58.294137,order arrived yet?,Check_Order
+user_48,2026-01-09 09:42:55.294142,change my password,Account_Assistance
+user_4,2026-01-07 04:45:48.294149,compatibility questions,Product_Inquiry
+user_39,2026-01-08 02:29:17.294155,wrong size,Refund_Request
+user_39,2025-12-23 12:09:13.294160,tell me about product X,Product_Inquiry
+user_48,2025-12-20 14:47:47.294166,who are you?,Fallback
+user_3,2026-01-03 09:32:43.294172,can I speak to a purple elephant?,Fallback
+user_18,2026-01-12 13:25:24.294179,greetings,Greeting
+user_17,2026-01-14 08:59:16.294187,can I speak to a purple elephant?,Fallback
+user_28,2026-01-02 13:40:34.294193,hi,Greeting
+user_17,2025-12-22 04:33:47.294198,can I track my recent purchase?,Check_Order
+user_50,2025-12-29 13:37:50.294204,prime membership issues,Account_Assistance
+user_40,2026-01-08 14:51:05.294210,kindle not syncing,Technical_Issue
+user_43,2026-01-20 11:35:43.294216,cannot access my account,Technical_Issue
+user_40,2025-12-29 14:25:01.294222,what?,Fallback
+user_36,2025-12-26 00:22:34.294228,hello,Greeting
+user_30,2025-12-24 21:58:50.294234,who are you?,Fallback
+user_25,2026-01-16 16:20:37.294240,can I track my recent purchase?,Check_Order
+user_6,2026-01-11 21:19:30.294246,what?,Fallback
+user_22,2026-01-04 22:33:15.294251,alexa is not responding,Technical_Issue
+user_43,2026-01-12 11:59:10.294257,rate my experience,Feedback
+user_30,2025-12-28 20:52:38.294263,I need to speak with someone,Customer_Service_Contact
+user_28,2025-12-29 18:02:15.294269,I have a suggestion,Feedback
+user_34,2025-12-21 03:25:37.294274,account suspended,Account_Assistance
+user_21,2026-01-11 23:51:17.294280,can't log into my account,Account_Assistance
+user_26,2025-12-23 16:53:14.294287,rate my experience,Feedback
+user_19,2026-01-16 08:24:29.294294,!!,Fallback
+user_20,2026-01-14 03:51:05.294300,I have a suggestion,Feedback
+user_47,2025-12-20 16:21:01.294306,I have a suggestion,Feedback
+user_38,2026-01-19 13:14:14.294312,feedback about your service,Feedback
+user_20,2026-01-17 17:44:02.294318,I don't understand,Fallback
+user_36,2025-12-28 06:14:57.294324,compatibility questions,Product_Inquiry
+user_50,2026-01-07 04:01:50.294330,good morning,Greeting
+user_31,2026-01-01 13:56:38.294336,hey there,Greeting
+user_43,2025-12-23 19:33:04.294341,tell me about product X,Product_Inquiry
+user_28,2025-12-27 01:30:10.294347,speak to a representative,Customer_Service_Contact
+user_20,2026-01-03 02:33:01.294353,change my password,Account_Assistance
+user_28,2025-12-28 09:52:33.294359,feedback about your service,Feedback
+user_33,2026-01-10 11:37:59.294365,change my password,Account_Assistance
+user_22,2025-12-26 01:41:30.294371,good morning,Greeting
+user_33,2026-01-15 01:54:16.294376,order arrived yet?,Check_Order
+user_28,2026-01-12 04:54:02.294382,can I track my recent purchase?,Check_Order
+user_43,2026-01-17 02:00:22.294388,wrong size,Refund_Request
+user_48,2026-01-03 17:48:55.294394,change my password,Account_Assistance
+user_47,2026-01-15 23:34:32.294400,track order,Check_Order
+user_30,2026-01-20 07:33:35.294443,!!,Fallback
+user_1,2026-01-17 01:12:45.294454,status of order #123,Check_Order
+user_4,2025-12-25 23:20:26.294460,rate my experience,Feedback
+user_17,2025-12-30 21:20:51.294466,how to return a product?,Refund_Request
+user_25,2026-01-08 18:28:41.294472,product specifications,Product_Inquiry
+user_50,2025-12-27 18:33:55.294478,hello,Greeting
+user_15,2025-12-25 16:09:39.294484,feedback about your service,Feedback
+user_37,2026-01-09 20:54:46.294490,rate my experience,Feedback
+user_45,2026-01-17 13:13:50.294496,my item is damaged,Refund_Request
+user_7,2025-12-29 04:30:35.294502,error 404,Technical_Issue
+user_33,2026-01-18 09:42:20.294507,track order,Check_Order
+user_35,2026-01-03 05:45:56.294513,update payment method,Account_Assistance
+user_49,2026-01-10 04:32:30.294519,price of item Y,Product_Inquiry
+user_10,2025-12-28 02:39:31.294525,hi,Greeting
+user_17,2025-12-22 04:29:15.294531,speak to a representative,Customer_Service_Contact
+user_2,2026-01-18 15:10:31.294536,hi,Greeting
+user_45,2026-01-01 09:56:14.294542,rate my experience,Feedback
+user_11,2026-01-16 13:39:34.294548,good morning,Greeting
+user_42,2026-01-13 10:46:54.294554,what are the features of this laptop?,Product_Inquiry
+user_28,2025-12-30 07:41:55.294559,connect me to support,Customer_Service_Contact
+user_50,2026-01-09 15:22:20.294565,return item,Refund_Request
+user_6,2026-01-12 11:43:56.294571,rate my experience,Feedback
+user_7,2025-12-26 17:32:25.294577,change my password,Account_Assistance
+user_36,2026-01-19 21:17:28.294583,talk to human agent,Customer_Service_Contact
+user_4,2026-01-05 10:20:35.294589,hi,Greeting
+user_45,2026-01-14 20:15:57.294595,speak to a representative,Customer_Service_Contact
+user_31,2026-01-05 05:30:11.294601,hello,Greeting
+user_25,2026-01-05 15:59:36.294607,hey there,Greeting
+user_30,2025-12-24 01:02:27.294613,I don't understand,Fallback
+user_10,2025-12-30 10:09:47.294619,error 404,Technical_Issue
+user_40,2026-01-16 17:32:02.294624,connect me to support,Customer_Service_Contact
+user_6,2026-01-17 06:43:53.294630,asdfghjkl,Fallback
+user_16,2026-01-02 04:09:20.294636,website not loading,Technical_Issue
+user_4,2026-01-18 10:02:37.294642,tell me about product X,Product_Inquiry
+user_24,2026-01-19 02:34:06.294647,hi,Greeting
+user_24,2025-12-25 14:01:23.294653,what?,Fallback
+user_24,2025-12-24 00:20:14.294659,missing package,Check_Order
+user_29,2026-01-01 22:35:14.294665,can't log into my account,Account_Assistance
+user_12,2025-12-29 17:39:13.294671,hello,Greeting
+user_32,2025-12-22 11:50:02.294677,product specifications,Product_Inquiry
+user_41,2026-01-17 16:31:15.294684,alexa is not responding,Technical_Issue
+user_41,2026-01-10 07:06:05.294689,hey there,Greeting
+user_48,2025-12-21 14:00:17.294695,can I get help from a person?,Customer_Service_Contact
+user_9,2026-01-01 15:49:18.294701,can I get help from a person?,Customer_Service_Contact
+user_43,2025-12-25 02:26:55.294707,wrong size,Refund_Request
+user_19,2026-01-02 16:11:20.294713,speak to a representative,Customer_Service_Contact
+user_10,2026-01-19 19:56:27.294719,error 404,Technical_Issue
+user_38,2026-01-09 01:15:42.294725,greetings,Greeting
+user_9,2025-12-20 13:27:33.294730,I need to speak with someone,Customer_Service_Contact
+user_49,2026-01-15 07:00:11.294737,track order,Check_Order
+user_19,2026-01-05 07:17:44.294743,who are you?,Fallback
+user_8,2026-01-06 16:50:32.294748,i want a refund,Refund_Request
+user_22,2026-01-09 23:25:24.294754,product specifications,Product_Inquiry
+user_48,2026-01-03 11:02:49.294760,manage my subscriptions,Account_Assistance
+user_32,2026-01-13 23:52:57.294766,hi,Greeting
+user_34,2025-12-29 22:20:30.294772,asdfghjkl,Fallback
+user_14,2025-12-27 18:53:12.294778,account suspended,Account_Assistance
+user_36,2026-01-14 15:14:47.294783,update payment method,Account_Assistance
+user_14,2026-01-16 01:56:35.294789,account suspended,Account_Assistance
+user_3,2026-01-05 22:54:46.294795,asdfghjkl,Fallback
+user_24,2026-01-18 03:10:52.294801,asdfghjkl,Fallback
+user_16,2026-01-10 16:44:49.294807,can I track my recent purchase?,Check_Order
+user_25,2026-01-14 22:48:43.294813,website not loading,Technical_Issue
+user_18,2025-12-23 04:25:54.294820,order arrived yet?,Check_Order
+user_22,2026-01-17 17:34:54.294826,product specifications,Product_Inquiry
+user_28,2026-01-02 09:26:27.294832,can I get help from a person?,Customer_Service_Contact
+user_2,2026-01-05 19:32:31.294838,connect me to support,Customer_Service_Contact
+user_28,2026-01-11 17:38:16.294844,has my order shipped?,Check_Order
+user_15,2025-12-29 06:21:12.294850,shipping update,Check_Order
+user_13,2026-01-14 11:38:17.294856,cannot access my account,Technical_Issue
+user_33,2025-12-27 02:30:21.294861,talk to human agent,Customer_Service_Contact
+user_18,2026-01-10 00:45:47.294867,rate my experience,Feedback
+user_45,2025-12-26 18:52:10.294873,feedback about your service,Feedback
+user_20,2026-01-15 06:42:56.294879,account suspended,Account_Assistance
+user_9,2025-12-29 18:35:54.294885,update payment method,Account_Assistance
+user_46,2026-01-02 09:43:19.294890,who are you?,Fallback
+user_33,2026-01-09 16:10:21.294896,change my password,Account_Assistance
+user_17,2026-01-15 05:28:33.294902,can't log into my account,Account_Assistance
+user_47,2025-12-23 20:31:01.294908,hey there,Greeting
+user_38,2026-01-17 12:59:25.294914,alexa is not responding,Technical_Issue
+user_11,2025-12-20 23:27:25.294919,can I get help from a person?,Customer_Service_Contact
+user_42,2026-01-07 05:06:31.294926,I have a suggestion,Feedback
+user_17,2026-01-16 02:11:57.294931,kindle not syncing,Technical_Issue
+user_18,2026-01-08 06:27:08.294937,issue with my recent purchase,Refund_Request
+user_4,2026-01-06 18:52:44.294943,product specifications,Product_Inquiry
+user_8,2026-01-18 21:26:05.294949,rate my experience,Feedback
+user_36,2026-01-14 21:21:16.294954,can I speak to a purple elephant?,Fallback
+user_44,2026-01-04 19:14:04.294960,status of order #123,Check_Order
+user_41,2026-01-04 21:56:33.294966,greetings,Greeting
+user_42,2026-01-18 15:05:33.294972,hello,Greeting
+user_8,2026-01-14 15:47:11.294978,prime video not working,Technical_Issue
+user_38,2026-01-10 10:30:55.294984,kindle not syncing,Technical_Issue
+user_48,2025-12-28 06:14:57.294989,can I speak to a purple elephant?,Fallback
+user_6,2025-12-24 09:25:16.294996,I need to speak with someone,Customer_Service_Contact
+user_43,2025-12-31 01:01:47.295002,defective item,Refund_Request
+user_29,2025-12-26 06:15:55.295007,track order,Check_Order
+user_6,2026-01-13 02:16:08.295013,account suspended,Account_Assistance
+user_17,2026-01-18 08:57:38.295019,app is crashing,Technical_Issue
+user_43,2026-01-11 07:33:11.295025,issue with my recent purchase,Refund_Request
+user_14,2026-01-18 17:29:41.295030,app is crashing,Technical_Issue
+user_22,2025-12-24 00:15:23.295036,rate my experience,Feedback
+user_40,2025-12-21 22:00:07.295042,prime membership issues,Account_Assistance
+user_17,2025-12-30 07:16:38.295048,feedback about your service,Feedback
+user_25,2025-12-28 12:34:44.295053,login failed,Technical_Issue
+user_4,2026-01-05 07:41:41.295059,rate my experience,Feedback
+user_7,2025-12-31 22:27:26.295065,my item is damaged,Refund_Request
+user_21,2026-01-11 23:13:02.295071,tell me about product X,Product_Inquiry
+user_45,2026-01-06 08:51:58.295077,alexa is not responding,Technical_Issue
+user_42,2026-01-13 16:36:31.295082,my item is damaged,Refund_Request
+user_48,2026-01-03 19:57:16.295088,talk to human agent,Customer_Service_Contact
+user_41,2026-01-11 03:21:22.295094,can't log into my account,Account_Assistance
+user_7,2026-01-19 04:40:38.295100,good morning,Greeting
+user_15,2025-12-29 19:26:18.295106,can't log into my account,Account_Assistance
+user_42,2026-01-14 08:38:47.295112,I don't understand,Fallback
+user_31,2025-12-29 15:44:44.295118,who are you?,Fallback
+user_20,2026-01-17 14:34:37.295124,rate my experience,Feedback
+user_23,2025-12-30 01:20:18.295129,website not loading,Technical_Issue
+user_12,2025-12-26 09:15:13.295135,hi,Greeting
+user_30,2026-01-04 17:10:45.295141,product specifications,Product_Inquiry
+user_28,2025-12-29 16:40:09.295147,hey there,Greeting
+user_43,2025-12-22 06:18:04.295153,prime video not working,Technical_Issue
+user_3,2026-01-08 03:27:49.295159,I have a suggestion,Feedback
+user_34,2025-12-25 10:37:21.295165,!!,Fallback
+user_13,2026-01-06 13:24:40.295171,prime membership issues,Account_Assistance
+user_10,2025-12-30 11:45:09.295176,issue with my recent purchase,Refund_Request
+user_13,2026-01-10 16:59:23.295183,money back please,Refund_Request
+user_37,2026-01-02 17:42:42.295190,good morning,Greeting
+user_23,2026-01-19 10:27:46.295196,delivery date for my order,Check_Order
+user_15,2025-12-27 03:38:14.295201,I need to speak with someone,Customer_Service_Contact
+user_28,2025-12-30 20:40:54.295207,what?,Fallback
+user_3,2026-01-11 08:14:55.295213,change my password,Account_Assistance
+user_36,2026-01-07 22:37:21.295219,good morning,Greeting
+user_45,2026-01-09 06:29:22.295224,error 404,Technical_Issue
+user_22,2026-01-03 12:41:57.295230,I need to speak with someone,Customer_Service_Contact
+user_14,2026-01-02 16:51:40.295236,prime membership issues,Account_Assistance
+user_15,2026-01-19 23:30:47.295241,update payment method,Account_Assistance
+user_41,2026-01-19 21:48:07.295248,return item,Refund_Request
+user_36,2026-01-07 20:47:52.295253,cancel an order,Refund_Request
+user_50,2025-12-21 10:02:13.295259,what?,Fallback
+user_50,2025-12-25 17:57:00.295265,has my order shipped?,Check_Order
+user_38,2026-01-11 18:39:49.295271,delivery date for my order,Check_Order
+user_39,2025-12-26 21:10:05.295277,can I speak to a purple elephant?,Fallback
+user_25,2025-12-28 01:00:02.295282,I don't understand,Fallback
+user_22,2025-12-25 10:45:44.295288,how to return a product?,Refund_Request
+user_3,2025-12-24 19:48:02.295294,!!,Fallback
+user_46,2025-12-26 06:16:06.295299,speak to a representative,Customer_Service_Contact
+user_38,2025-12-29 20:10:05.295305,greetings,Greeting
+user_6,2025-12-20 15:57:47.295311,how to change my address?,Account_Assistance
+user_29,2026-01-14 03:36:30.295317,my item is damaged,Refund_Request
+user_29,2025-12-23 22:54:08.295323,connect me to support,Customer_Service_Contact
+user_42,2025-12-24 08:44:04.295328,how to change my address?,Account_Assistance
+user_32,2025-12-21 06:58:36.295334,!!,Fallback
+user_43,2026-01-03 04:32:34.295340,speak to a representative,Customer_Service_Contact
+user_4,2026-01-02 05:02:24.295346,I have a suggestion,Feedback
+user_17,2026-01-15 09:54:58.295352,talk to human agent,Customer_Service_Contact
+user_49,2025-12-27 07:55:22.295358,prime membership issues,Account_Assistance
+user_23,2025-12-27 19:39:15.295363,cannot access my account,Technical_Issue
+user_46,2026-01-11 09:47:19.295369,I have a suggestion,Feedback
+user_38,2026-01-07 03:35:23.295375,compatibility questions,Product_Inquiry
+user_48,2025-12-28 08:45:18.295381,missing package,Check_Order
+user_10,2026-01-11 08:41:57.295386,can I get help from a person?,Customer_Service_Contact
+user_28,2026-01-07 07:14:08.295392,compatibility questions,Product_Inquiry
+user_38,2026-01-01 17:59:52.295398,I need to speak with someone,Customer_Service_Contact
+user_13,2025-12-21 10:08:35.295403,return item,Refund_Request
+user_24,2026-01-09 21:15:49.295455,cannot access my account,Technical_Issue
+user_25,2026-01-03 05:15:10.295462,what?,Fallback
+user_50,2026-01-06 14:15:03.295467,website not loading,Technical_Issue
+user_6,2025-12-20 15:46:31.295473,asdfghjkl,Fallback
+user_26,2026-01-13 03:19:41.295479,cannot access my account,Technical_Issue
+user_36,2026-01-01 17:01:56.295485,kindle not syncing,Technical_Issue
+user_19,2026-01-14 11:04:29.295491,manage my subscriptions,Account_Assistance
+user_9,2026-01-09 18:49:43.295497,issue with my recent purchase,Refund_Request
+user_48,2025-12-24 22:14:03.295502,website not loading,Technical_Issue
+user_27,2026-01-08 07:36:51.295508,who are you?,Fallback
+user_14,2026-01-04 05:46:16.295513,connect me to support,Customer_Service_Contact
+user_30,2026-01-17 03:15:34.295519,connect me to support,Customer_Service_Contact
+user_9,2026-01-08 05:15:24.295525,connect me to support,Customer_Service_Contact
+user_23,2026-01-09 02:25:29.295531,can I track my recent purchase?,Check_Order
+user_7,2026-01-16 04:21:06.295536,feedback about your service,Feedback
+user_15,2025-12-25 22:20:35.295542,prime membership issues,Account_Assistance
+user_42,2026-01-17 13:56:54.295548,i want a refund,Refund_Request
+user_40,2026-01-14 02:10:12.295553,hey there,Greeting
+user_50,2026-01-03 21:17:17.295559,kindle not syncing,Technical_Issue
+user_22,2025-12-24 03:41:11.295565,change my password,Account_Assistance
+user_11,2026-01-11 11:59:12.295571,hello,Greeting
+user_46,2026-01-02 07:34:42.295577,cancel an order,Refund_Request
+user_44,2026-01-14 15:16:55.295583,my item is damaged,Refund_Request
+user_1,2026-01-14 04:36:20.295588,how to change my address?,Account_Assistance
+user_14,2026-01-08 03:56:56.295594,defective item,Refund_Request
+user_33,2025-12-23 16:17:54.295600,cancel an order,Refund_Request
+user_5,2026-01-19 05:24:05.295606,error 404,Technical_Issue
+user_9,2025-12-25 20:40:00.295612,website not loading,Technical_Issue
+user_7,2025-12-24 20:01:20.295618,compatibility questions,Product_Inquiry
+user_7,2026-01-03 03:51:23.295624,price of item Y,Product_Inquiry
+user_8,2025-12-30 09:43:32.295630,cancel an order,Refund_Request
+user_24,2026-01-06 17:45:47.295636,feedback about your service,Feedback
+user_10,2026-01-18 13:00:42.295641,feedback about your service,Feedback
+user_13,2025-12-20 16:50:02.295647,manage my subscriptions,Account_Assistance
+user_26,2026-01-11 15:06:48.295653,talk to human agent,Customer_Service_Contact
+user_37,2026-01-08 10:35:22.295659,speak to a representative,Customer_Service_Contact
+user_30,2026-01-08 22:19:52.295665,defective item,Refund_Request
+user_1,2026-01-07 17:21:09.295670,I have a suggestion,Feedback
+user_16,2026-01-08 16:09:19.295676,change my password,Account_Assistance
+user_14,2025-12-24 17:50:34.295682,where is my package?,Check_Order
+user_20,2025-12-28 23:08:57.295688,my item is damaged,Refund_Request
+user_18,2026-01-18 06:20:43.295693,what?,Fallback
+user_20,2025-12-28 11:10:00.295699,manage my subscriptions,Account_Assistance
+user_33,2026-01-13 17:33:36.295705,how to change my address?,Account_Assistance
+user_50,2026-01-09 11:45:28.295711,I need to speak with someone,Customer_Service_Contact
+user_7,2026-01-05 18:24:49.295716,login failed,Technical_Issue
+user_45,2026-01-17 10:41:09.295722,price of item Y,Product_Inquiry
+user_35,2025-12-27 19:21:06.295728,product specifications,Product_Inquiry
+user_40,2026-01-15 12:44:41.295734,prime video not working,Technical_Issue
+user_32,2026-01-19 02:27:12.295739,asdfghjkl,Fallback
+user_30,2025-12-24 09:47:10.295745,cancel an order,Refund_Request
+user_12,2026-01-02 21:31:31.295751,delivery date for my order,Check_Order
+user_43,2026-01-19 00:53:00.295757,can I speak to a purple elephant?,Fallback
+user_49,2025-12-27 23:48:53.295762,who are you?,Fallback
+user_37,2026-01-09 11:44:03.295768,hey there,Greeting
+user_8,2026-01-10 21:04:29.295774,speak to a representative,Customer_Service_Contact
+user_11,2025-12-25 18:17:50.295780,update payment method,Account_Assistance
+user_23,2025-12-23 13:33:45.295786,hi,Greeting
+user_30,2025-12-25 08:57:28.295791,has my order shipped?,Check_Order
+user_21,2026-01-13 19:58:59.295798,can I get help from a person?,Customer_Service_Contact
+user_9,2026-01-07 06:10:15.295803,cancel an order,Refund_Request
+user_41,2026-01-08 03:17:46.295809,issue with my recent purchase,Refund_Request
+user_31,2026-01-05 15:21:39.295815,I have a suggestion,Feedback
+user_21,2026-01-19 12:42:51.295821,I have a suggestion,Feedback
+user_37,2026-01-16 16:10:03.295826,can't log into my account,Account_Assistance
+user_2,2026-01-11 03:43:03.295832,website not loading,Technical_Issue
+user_36,2025-12-22 07:21:54.295838,good morning,Greeting
+user_9,2026-01-14 21:07:25.295844,my item is damaged,Refund_Request
+user_25,2026-01-15 23:16:27.295850,status of order #123,Check_Order
+user_9,2026-01-09 06:14:57.295856,what are the features of this laptop?,Product_Inquiry
+user_2,2026-01-02 10:28:06.295863,feedback about your service,Feedback
+user_2,2026-01-01 04:03:58.295869,can't log into my account,Account_Assistance
+user_6,2026-01-08 18:44:51.295875,what?,Fallback
+user_44,2025-12-23 07:33:35.295880,price of item Y,Product_Inquiry
+user_16,2026-01-01 10:40:59.295886,defective item,Refund_Request
+user_17,2025-12-28 07:36:58.295892,prime membership issues,Account_Assistance
+user_35,2026-01-07 15:30:04.295898,I need to speak with someone,Customer_Service_Contact
+user_10,2025-12-25 18:59:15.295904,hello,Greeting
+user_32,2025-12-31 15:59:40.295910,delivery date for my order,Check_Order
+user_17,2026-01-13 05:54:23.295916,talk to human agent,Customer_Service_Contact
+user_50,2026-01-18 19:41:51.295921,connect me to support,Customer_Service_Contact
+user_8,2026-01-12 19:27:49.295927,issue with my recent purchase,Refund_Request
+user_42,2026-01-19 01:26:20.295933,hi,Greeting
+user_46,2025-12-24 18:42:43.295939,cannot access my account,Technical_Issue
+user_6,2025-12-28 15:35:40.295944,can I get help from a person?,Customer_Service_Contact
+user_19,2025-12-29 00:35:54.295950,status of order #123,Check_Order
+user_48,2025-12-25 22:19:59.295956,status of order #123,Check_Order
+user_10,2026-01-16 23:26:21.295962,asdfghjkl,Fallback
+user_39,2025-12-21 04:51:31.295968,change my password,Account_Assistance
+user_50,2025-12-22 22:38:38.295975,feedback about your service,Feedback
+user_43,2025-12-20 14:49:09.295999,can I get help from a person?,Customer_Service_Contact
+user_27,2026-01-15 12:00:12.296177,update payment method,Account_Assistance
+user_45,2025-12-21 13:43:41.296190,what?,Fallback
+user_29,2026-01-09 05:17:24.296199,my item is damaged,Refund_Request
+user_4,2026-01-04 16:19:01.296208,talk to human agent,Customer_Service_Contact
+user_15,2025-12-27 08:37:30.296217,missing package,Check_Order
+user_33,2025-12-26 16:04:32.296227,prime video not working,Technical_Issue
+user_48,2026-01-15 14:15:18.296235,rate my experience,Feedback
+user_42,2026-01-11 13:39:29.296244,order arrived yet?,Check_Order
+user_3,2026-01-14 10:40:21.296253,can I get help from a person?,Customer_Service_Contact
+user_1,2026-01-11 05:27:41.296262,shipping update,Check_Order
+user_29,2025-12-26 23:38:12.296272,where is my package?,Check_Order
+user_48,2025-12-21 14:26:28.296282,!!,Fallback
+user_38,2026-01-17 00:47:14.296290,status of order #123,Check_Order
+user_44,2026-01-02 16:40:57.296298,product specifications,Product_Inquiry
+user_32,2025-12-23 05:34:05.296307,manage my subscriptions,Account_Assistance
+user_48,2026-01-20 06:30:05.296315,speak to a representative,Customer_Service_Contact
+user_49,2025-12-24 04:59:07.296323,!!,Fallback
+user_17,2026-01-01 08:28:15.296332,change my password,Account_Assistance
+user_6,2026-01-18 17:13:20.296340,track order,Check_Order
+user_35,2026-01-07 22:11:36.296349,product specifications,Product_Inquiry
+user_34,2025-12-31 19:01:38.296358,manage my subscriptions,Account_Assistance
+user_23,2025-12-30 11:55:05.296368,talk to human agent,Customer_Service_Contact
+user_27,2026-01-13 14:06:56.296380,good morning,Greeting
+user_50,2025-12-25 03:08:03.296390,where is my package?,Check_Order
+user_49,2026-01-03 06:04:10.296399,tell me about product X,Product_Inquiry
+user_7,2025-12-25 23:06:07.296428,status of order #123,Check_Order
+user_28,2025-12-25 20:15:03.296445,feedback about your service,Feedback
+user_28,2026-01-06 02:39:30.296454,can I speak to a purple elephant?,Fallback
+user_29,2025-12-27 06:56:12.296463,alexa is not responding,Technical_Issue
+user_11,2026-01-18 19:12:39.296473,can I speak to a purple elephant?,Fallback
+user_35,2025-12-31 06:00:24.296482,can I get help from a person?,Customer_Service_Contact
+user_8,2026-01-04 13:31:39.296493,cannot access my account,Technical_Issue
+user_41,2026-01-05 23:46:30.296502,i want a refund,Refund_Request
+user_22,2025-12-31 14:44:36.296511,who are you?,Fallback
+user_15,2026-01-05 05:17:36.296519,hey there,Greeting
+user_37,2026-01-08 02:09:20.296529,rate my experience,Feedback
+user_37,2026-01-09 19:53:32.296539,defective item,Refund_Request
+user_23,2025-12-21 11:34:30.296549,has my order shipped?,Check_Order
+user_25,2025-12-26 11:21:58.296559,I don't understand,Fallback
+user_32,2025-12-27 01:01:49.296568,cancel an order,Refund_Request
+user_37,2025-12-21 02:18:55.296577,feedback about your service,Feedback
+user_41,2026-01-18 21:05:14.296587,error 404,Technical_Issue
+user_17,2026-01-16 21:37:22.296596,account suspended,Account_Assistance
+user_49,2026-01-03 21:45:09.296606,good morning,Greeting
+user_18,2026-01-13 16:54:23.296614,what?,Fallback
+user_41,2026-01-05 09:59:33.296623,can't log into my account,Account_Assistance
+user_39,2026-01-15 07:46:55.296633,prime video not working,Technical_Issue
+user_25,2026-01-10 14:56:12.296642,talk to human agent,Customer_Service_Contact
+user_19,2026-01-10 08:58:31.296651,hi,Greeting
+user_3,2026-01-15 07:49:59.296660,I need to speak with someone,Customer_Service_Contact
+user_11,2025-12-21 02:17:37.296670,money back please,Refund_Request
+user_50,2026-01-02 01:37:11.296678,hi,Greeting
+user_48,2025-12-25 00:39:08.296687,price of item Y,Product_Inquiry
+user_24,2026-01-11 21:13:43.296927,where is my package?,Check_Order
+user_1,2026-01-14 19:29:35.296950,manage my subscriptions,Account_Assistance
+user_1,2025-12-25 00:37:19.296962,can I get help from a person?,Customer_Service_Contact
+user_36,2025-12-22 22:04:44.296972,return item,Refund_Request
+user_49,2026-01-10 12:12:20.296982,connect me to support,Customer_Service_Contact
+user_30,2026-01-08 04:42:46.296991,issue with my recent purchase,Refund_Request
+user_11,2025-12-28 23:09:00.297001,asdfghjkl,Fallback
+user_5,2026-01-16 13:39:19.297010,good morning,Greeting
+user_1,2026-01-03 23:45:07.297020,good morning,Greeting
+user_1,2026-01-17 17:17:32.297029,speak to a representative,Customer_Service_Contact
+user_47,2026-01-06 00:07:23.297040,status of order #123,Check_Order
+user_44,2025-12-25 15:56:38.297050,compatibility questions,Product_Inquiry
+user_34,2026-01-17 12:25:48.297061,status of order #123,Check_Order
+user_45,2026-01-13 17:46:04.297071,account suspended,Account_Assistance
+user_25,2025-12-26 17:37:16.297079,cancel an order,Refund_Request
+user_12,2026-01-13 10:25:00.297088,can I get help from a person?,Customer_Service_Contact
+user_49,2025-12-25 09:20:46.297097,talk to human agent,Customer_Service_Contact
+user_10,2026-01-02 16:55:07.297106,account suspended,Account_Assistance
+user_33,2026-01-13 22:20:21.297115,feedback about your service,Feedback
+user_3,2025-12-26 09:07:35.297124,where is my package?,Check_Order
+user_26,2026-01-01 08:42:38.297132,account suspended,Account_Assistance
+user_4,2026-01-03 04:12:34.297141,connect me to support,Customer_Service_Contact
+user_43,2026-01-08 13:16:38.297150,my item is damaged,Refund_Request
+user_2,2026-01-14 22:20:26.297159,prime membership issues,Account_Assistance
+user_45,2026-01-08 23:41:17.297168,hey there,Greeting
+user_9,2026-01-01 20:36:25.297177,how to return a product?,Refund_Request
+user_43,2026-01-17 16:23:22.297396,compatibility questions,Product_Inquiry
+user_10,2025-12-28 20:14:59.297427,I have a suggestion,Feedback
+user_21,2025-12-30 01:17:34.297446,delivery date for my order,Check_Order
+user_48,2025-12-30 16:30:20.297456,hey there,Greeting
+user_7,2025-12-29 11:25:08.297467,defective item,Refund_Request
+user_1,2025-12-22 16:32:21.297477,delivery date for my order,Check_Order
+user_16,2026-01-18 11:30:39.297486,can't log into my account,Account_Assistance
+user_36,2026-01-07 08:53:14.297495,price of item Y,Product_Inquiry
+user_50,2025-12-26 13:41:30.297504,asdfghjkl,Fallback
+user_4,2025-12-31 18:27:55.297514,can I track my recent purchase?,Check_Order
+user_36,2026-01-05 19:43:06.297522,prime membership issues,Account_Assistance
+user_17,2026-01-03 08:32:44.297531,tell me about product X,Product_Inquiry
+user_22,2026-01-12 17:10:46.297540,error 404,Technical_Issue
+user_23,2026-01-15 16:52:08.297549,I have a suggestion,Feedback
+user_21,2026-01-05 10:38:48.297558,hey there,Greeting
+user_19,2026-01-02 12:23:18.297566,alexa is not responding,Technical_Issue
+user_7,2026-01-12 22:36:30.297577,rate my experience,Feedback
+user_3,2025-12-31 19:10:58.297587,speak to a representative,Customer_Service_Contact
+user_39,2025-12-29 17:00:20.297597,can I get help from a person?,Customer_Service_Contact
+user_22,2025-12-27 05:58:30.297607,update payment method,Account_Assistance
+user_21,2025-12-27 20:00:00.297618,what?,Fallback
+user_39,2026-01-03 04:36:39.297628,website not loading,Technical_Issue
+user_30,2026-01-16 13:55:24.297638,can I get help from a person?,Customer_Service_Contact
+user_17,2026-01-17 20:41:43.297648,tell me about product X,Product_Inquiry
+user_44,2025-12-31 21:17:02.297658,connect me to support,Customer_Service_Contact
+user_1,2025-12-20 21:28:55.297668,is product Z in stock?,Product_Inquiry
+user_30,2026-01-06 00:29:54.297678,I have a suggestion,Feedback
+user_25,2025-12-26 22:53:48.297689,hey there,Greeting
+user_32,2025-12-25 03:46:28.297699,can I get help from a person?,Customer_Service_Contact
+user_44,2025-12-30 09:00:06.297709,issue with my recent purchase,Refund_Request
+user_2,2026-01-05 04:11:58.297719,what?,Fallback
+user_26,2026-01-10 07:47:22.297730,update payment method,Account_Assistance
+user_24,2026-01-01 12:24:19.297740,hello,Greeting
+user_26,2026-01-15 15:29:01.297750,prime membership issues,Account_Assistance
+user_23,2026-01-06 10:05:21.297760,compare product A and B,Product_Inquiry
+user_11,2025-12-31 14:59:33.297769,issue with my recent purchase,Refund_Request
+user_29,2025-12-29 19:39:47.297780,what are the features of this laptop?,Product_Inquiry
+user_21,2026-01-02 22:55:12.297789,tell me about product X,Product_Inquiry
+user_23,2026-01-14 13:35:00.297799,rate my experience,Feedback
+user_48,2026-01-16 18:00:40.297810,hi,Greeting
+user_37,2026-01-14 21:41:34.297820,prime video not working,Technical_Issue
+user_45,2025-12-28 21:56:34.297830,connect me to support,Customer_Service_Contact
+user_37,2025-12-29 09:10:13.297840,I don't understand,Fallback
+user_25,2025-12-29 22:40:46.297849,connect me to support,Customer_Service_Contact
+user_39,2026-01-08 04:59:04.297858,hey there,Greeting
+user_47,2026-01-20 10:54:03.297866,can I get help from a person?,Customer_Service_Contact
+user_12,2026-01-02 03:53:47.297875,delivery date for my order,Check_Order
+user_30,2026-01-13 07:12:46.297884,how to return a product?,Refund_Request
+user_31,2026-01-04 14:15:38.297893,delivery date for my order,Check_Order
+user_47,2025-12-25 18:15:40.297902,feedback about your service,Feedback
+user_13,2026-01-15 20:21:03.297912,I need to speak with someone,Customer_Service_Contact
+user_49,2026-01-15 06:39:58.297921,rate my experience,Feedback
+user_26,2026-01-08 15:39:02.297930,cancel an order,Refund_Request
+user_5,2026-01-07 03:15:59.297939,money back please,Refund_Request
+user_50,2025-12-20 13:21:57.297949,track order,Check_Order
+user_37,2025-12-24 00:59:07.297957,can't log into my account,Account_Assistance
+user_32,2025-12-22 23:34:17.297965,issue with my recent purchase,Refund_Request
+user_10,2026-01-13 21:24:32.297974,app is crashing,Technical_Issue
+user_42,2025-12-23 21:21:10.297982,what?,Fallback
+user_42,2026-01-08 00:48:03.297990,can I speak to a purple elephant?,Fallback
+user_32,2025-12-23 11:31:07.298001,what?,Fallback
+user_26,2026-01-15 13:48:25.298011,status of order #123,Check_Order
+user_36,2025-12-27 01:16:13.298020,product specifications,Product_Inquiry
+user_49,2026-01-08 01:20:00.298028,has my order shipped?,Check_Order
+user_6,2026-01-16 15:41:07.298037,account suspended,Account_Assistance
+user_28,2026-01-04 17:27:21.298045,hi,Greeting
+user_12,2026-01-12 09:55:20.298054,connect me to support,Customer_Service_Contact
+user_45,2025-12-25 12:36:44.298062,compare product A and B,Product_Inquiry
+user_11,2025-12-20 22:28:44.298072,is product Z in stock?,Product_Inquiry
+user_16,2026-01-11 12:33:19.298081,feedback about your service,Feedback
+user_33,2025-12-24 21:07:02.298090,asdfghjkl,Fallback
+user_47,2025-12-26 15:38:34.298100,update payment method,Account_Assistance
+user_39,2026-01-03 10:54:18.298110,cancel an order,Refund_Request
+user_31,2025-12-25 15:33:13.298119,cannot access my account,Technical_Issue
+user_33,2025-12-28 18:55:48.298128,how to return a product?,Refund_Request
+user_19,2026-01-03 21:43:41.298137,alexa is not responding,Technical_Issue
+user_34,2026-01-01 11:45:36.298146,good morning,Greeting
+user_34,2025-12-24 08:53:31.298155,who are you?,Fallback
+user_20,2026-01-13 19:38:06.298165,speak to a representative,Customer_Service_Contact
+user_10,2026-01-13 16:36:23.298175,can I get help from a person?,Customer_Service_Contact
+user_5,2026-01-19 07:49:33.298185,prime membership issues,Account_Assistance
+user_37,2026-01-16 02:07:23.298194,how to return a product?,Refund_Request
+user_11,2026-01-01 02:51:44.298203,rate my experience,Feedback
+user_4,2025-12-25 20:14:13.298212,update payment method,Account_Assistance
+user_16,2026-01-01 22:45:10.298220,greetings,Greeting
+user_27,2025-12-20 20:52:02.298230,alexa is not responding,Technical_Issue
+user_21,2026-01-07 11:25:16.298241,website not loading,Technical_Issue
+user_9,2026-01-15 20:36:20.298250,alexa is not responding,Technical_Issue
+user_37,2025-12-27 22:30:08.298259,connect me to support,Customer_Service_Contact
+user_10,2026-01-05 07:42:23.298269,!!,Fallback
+user_27,2025-12-27 06:37:58.298278,status of order #123,Check_Order
+user_5,2025-12-30 08:04:04.298286,website not loading,Technical_Issue
+user_32,2026-01-06 12:58:13.298296,prime membership issues,Account_Assistance
+user_5,2025-12-27 15:18:21.298348,defective item,Refund_Request
+user_7,2025-12-22 22:49:52.298357,I have a suggestion,Feedback
+user_2,2026-01-06 16:42:08.298366,speak to a representative,Customer_Service_Contact
+user_3,2025-12-21 07:53:39.298375,defective item,Refund_Request
+user_28,2026-01-17 15:06:16.298384,tell me about product X,Product_Inquiry
+user_42,2026-01-14 12:17:23.298394,product specifications,Product_Inquiry
+user_50,2026-01-03 14:41:46.298425,!!,Fallback
+user_8,2025-12-29 09:47:21.298444,compare product A and B,Product_Inquiry
+user_14,2025-12-27 04:32:29.298454,greetings,Greeting
+user_30,2026-01-19 09:30:30.298462,I have a suggestion,Feedback
+user_7,2026-01-11 13:14:01.298471,update payment method,Account_Assistance
+user_19,2025-12-25 21:44:25.298481,I don't understand,Fallback
+user_2,2026-01-17 10:47:01.298490,money back please,Refund_Request
+user_33,2026-01-09 17:39:30.298499,order arrived yet?,Check_Order
+user_7,2026-01-03 21:01:08.298508,cancel an order,Refund_Request
+user_7,2026-01-06 14:36:33.298516,how to change my address?,Account_Assistance
+user_35,2026-01-06 10:26:18.298524,track order,Check_Order
+user_3,2025-12-21 16:23:15.298533,wrong size,Refund_Request
+user_47,2026-01-10 10:01:06.298542,wrong size,Refund_Request
+user_44,2026-01-14 22:21:14.298552,issue with my recent purchase,Refund_Request
+user_31,2026-01-13 21:16:35.298560,speak to a representative,Customer_Service_Contact
+user_12,2025-12-25 11:43:30.298567,track order,Check_Order
+user_34,2026-01-09 20:16:22.298577,hello,Greeting
+user_39,2026-01-03 02:01:11.298586,missing package,Check_Order
+user_23,2025-12-25 23:18:16.298594,product specifications,Product_Inquiry
+user_18,2025-12-30 04:03:16.298603,change my password,Account_Assistance
+user_18,2026-01-08 08:28:40.298612,what are the features of this laptop?,Product_Inquiry
+user_29,2026-01-02 09:32:42.298621,prime membership issues,Account_Assistance
+user_5,2026-01-16 02:39:43.298630,hey there,Greeting
+user_42,2026-01-14 03:02:19.298638,is product Z in stock?,Product_Inquiry
+user_7,2026-01-14 06:03:58.298647,app is crashing,Technical_Issue
+user_17,2026-01-04 03:32:36.298656,who are you?,Fallback
+user_11,2025-12-24 01:24:22.298665,I have a suggestion,Feedback
+user_37,2026-01-04 09:19:53.298675,my item is damaged,Refund_Request
+user_30,2025-12-27 10:02:00.298685,I have a suggestion,Feedback
+user_19,2026-01-02 23:26:03.298693,alexa is not responding,Technical_Issue
+user_48,2025-12-26 20:23:28.298702,prime video not working,Technical_Issue
+user_44,2026-01-03 09:40:15.298711,how to change my address?,Account_Assistance
+user_37,2026-01-15 01:11:26.298721,website not loading,Technical_Issue
+user_6,2026-01-01 01:01:22.298731,!!,Fallback
+user_17,2026-01-08 22:49:53.298748,connect me to support,Customer_Service_Contact
+user_1,2026-01-11 08:35:26.298754,I have a suggestion,Feedback
+user_14,2026-01-06 11:15:26.298760,greetings,Greeting
+user_20,2026-01-07 03:58:54.298766,prime membership issues,Account_Assistance
+user_14,2026-01-12 23:37:52.298772,who are you?,Fallback
+user_14,2025-12-23 13:46:41.298779,can't log into my account,Account_Assistance
+user_49,2026-01-15 06:15:10.298811,I have a suggestion,Feedback
+user_18,2026-01-05 23:13:53.298822,good morning,Greeting
+user_45,2025-12-22 16:11:57.298832,speak to a representative,Customer_Service_Contact
+user_34,2025-12-23 23:19:45.298867,defective item,Refund_Request
+user_6,2025-12-25 07:34:39.298874,missing package,Check_Order
+user_17,2026-01-02 15:37:25.298880,account suspended,Account_Assistance
+user_45,2026-01-01 22:28:06.298886,delivery date for my order,Check_Order
+user_12,2025-12-24 14:50:41.298892,order arrived yet?,Check_Order
+user_17,2026-01-13 09:48:15.298898,speak to a representative,Customer_Service_Contact
+user_36,2025-12-20 23:35:46.298904,kindle not syncing,Technical_Issue
+user_11,2026-01-12 23:40:19.298910,rate my experience,Feedback
+user_38,2025-12-29 06:14:32.298916,website not loading,Technical_Issue
+user_17,2026-01-11 15:52:01.298922,how to change my address?,Account_Assistance
+user_42,2025-12-22 03:04:51.298927,delivery date for my order,Check_Order
+user_21,2026-01-01 01:38:29.298934,cancel an order,Refund_Request
+user_20,2026-01-04 05:15:33.298939,hello,Greeting
+user_14,2026-01-03 01:43:20.298945,I have a suggestion,Feedback
+user_22,2026-01-03 06:26:51.298952,rate my experience,Feedback
+user_12,2025-12-22 13:55:13.298959,change my password,Account_Assistance
+user_38,2025-12-30 04:41:34.298965,login failed,Technical_Issue
+user_49,2025-12-27 02:46:40.298971,can I get help from a person?,Customer_Service_Contact
+user_12,2026-01-14 10:08:53.298977,rate my experience,Feedback
+user_17,2025-12-27 13:46:50.298983,rate my experience,Feedback
+user_16,2026-01-14 09:30:36.298989,prime membership issues,Account_Assistance
+user_38,2025-12-26 23:44:04.298994,price of item Y,Product_Inquiry
+user_48,2026-01-19 21:36:44.299000,feedback about your service,Feedback
+user_20,2026-01-10 20:03:25.299006,has my order shipped?,Check_Order
+user_46,2026-01-13 01:56:30.299012,connect me to support,Customer_Service_Contact
+user_4,2026-01-14 10:04:03.299018,status of order #123,Check_Order
+user_43,2025-12-27 18:34:58.299024,cannot access my account,Technical_Issue
+user_37,2026-01-17 08:08:08.299029,can I speak to a purple elephant?,Fallback
+user_24,2025-12-23 10:27:51.299035,can I track my recent purchase?,Check_Order
+user_44,2026-01-10 23:10:47.299041,can I get help from a person?,Customer_Service_Contact
+user_33,2026-01-06 23:13:28.299047,product specifications,Product_Inquiry
+user_36,2026-01-19 09:20:33.299053,I need to speak with someone,Customer_Service_Contact
+user_39,2025-12-23 02:25:19.299059,how to change my address?,Account_Assistance
+user_15,2025-12-22 14:35:43.299065,prime membership issues,Account_Assistance
+user_27,2025-12-21 20:48:41.299071,connect me to support,Customer_Service_Contact
+user_47,2026-01-02 14:38:03.299077,cancel an order,Refund_Request
+user_19,2026-01-19 00:21:51.299083,I don't understand,Fallback
+user_29,2026-01-02 10:31:17.299088,cancel an order,Refund_Request
+user_6,2026-01-17 21:38:48.299094,cannot access my account,Technical_Issue
+user_47,2025-12-20 13:27:40.299100,hi,Greeting
+user_50,2026-01-10 14:15:17.299106,change my password,Account_Assistance
+user_16,2026-01-16 18:01:20.299112,greetings,Greeting
+user_14,2026-01-20 05:55:56.299117,connect me to support,Customer_Service_Contact
+user_12,2026-01-10 10:37:21.299123,asdfghjkl,Fallback
+user_17,2025-12-22 14:02:22.299129,can't log into my account,Account_Assistance
+user_32,2025-12-28 00:21:09.299134,delivery date for my order,Check_Order
+user_14,2026-01-19 03:42:26.299140,feedback about your service,Feedback
+user_16,2026-01-03 02:28:21.299146,tell me about product X,Product_Inquiry
+user_21,2026-01-02 07:44:42.299152,connect me to support,Customer_Service_Contact
+user_36,2025-12-27 20:36:54.299157,missing package,Check_Order
+user_4,2026-01-08 13:28:28.299163,hi,Greeting
+user_34,2026-01-04 15:57:09.299169,connect me to support,Customer_Service_Contact
+user_12,2026-01-03 15:01:57.299175,update payment method,Account_Assistance
+user_6,2025-12-28 13:33:00.299182,update payment method,Account_Assistance
+user_10,2026-01-14 19:39:57.299190,I have a suggestion,Feedback
+user_36,2026-01-01 02:24:41.299196,status of order #123,Check_Order
+user_1,2026-01-15 20:56:16.299201,who are you?,Fallback
+user_23,2025-12-23 00:01:56.299207,what?,Fallback
+user_18,2026-01-04 19:30:19.299213,feedback about your service,Feedback
+user_40,2025-12-20 11:59:37.299219,money back please,Refund_Request
+user_38,2026-01-07 11:43:42.299225,compare product A and B,Product_Inquiry
+user_2,2025-12-20 17:41:26.299231,product specifications,Product_Inquiry
+user_41,2026-01-02 12:35:22.299237,talk to human agent,Customer_Service_Contact
+user_50,2026-01-16 21:24:23.299243,tell me about product X,Product_Inquiry
+user_4,2025-12-31 11:22:58.299249,connect me to support,Customer_Service_Contact
+user_12,2026-01-14 13:40:57.299254,price of item Y,Product_Inquiry
+user_34,2026-01-06 08:38:57.299260,prime membership issues,Account_Assistance
+user_29,2026-01-01 12:55:23.299266,can I get help from a person?,Customer_Service_Contact
+user_25,2026-01-11 10:58:52.299271,who are you?,Fallback
+user_35,2025-12-22 00:20:07.299277,greetings,Greeting
+user_42,2026-01-11 15:44:49.299283,how to return a product?,Refund_Request
+user_38,2026-01-09 14:27:11.299288,greetings,Greeting
+user_7,2026-01-10 12:56:01.299294,what?,Fallback
+user_31,2026-01-11 07:30:29.299300,can I track my recent purchase?,Check_Order
+user_38,2026-01-07 20:02:07.299306,speak to a representative,Customer_Service_Contact
+user_7,2026-01-16 12:11:38.299311,I need to speak with someone,Customer_Service_Contact
+user_8,2026-01-20 04:46:09.299317,manage my subscriptions,Account_Assistance
+user_48,2025-12-30 03:38:21.299323,I need to speak with someone,Customer_Service_Contact
+user_49,2025-12-23 05:34:17.299329,feedback about your service,Feedback
+user_42,2025-12-30 11:19:43.299335,hello,Greeting
+user_25,2026-01-06 10:53:33.299340,manage my subscriptions,Account_Assistance
+user_33,2025-12-23 12:55:28.299346,status of order #123,Check_Order
+user_47,2025-12-26 19:12:07.299352,price of item Y,Product_Inquiry
+user_17,2025-12-23 14:32:07.299358,I need to speak with someone,Customer_Service_Contact
+user_36,2026-01-15 16:15:22.299363,rate my experience,Feedback
+user_39,2025-12-20 12:25:07.299369,feedback about your service,Feedback
+user_39,2026-01-19 21:51:05.299375,feedback about your service,Feedback
+user_5,2026-01-16 11:25:06.299381,hi,Greeting
+user_4,2026-01-02 22:16:33.299386,how to change my address?,Account_Assistance
+user_18,2025-12-23 20:10:43.299392,missing package,Check_Order
+user_35,2025-12-26 11:48:09.299398,how to change my address?,Account_Assistance
+user_29,2026-01-04 10:45:20.299438,wrong size,Refund_Request
+user_27,2026-01-08 12:30:34.299454,hey there,Greeting
+user_31,2026-01-05 20:41:42.299460,cannot access my account,Technical_Issue
+user_33,2026-01-09 19:18:38.299466,missing package,Check_Order
+user_39,2026-01-03 23:03:55.299472,can I get help from a person?,Customer_Service_Contact
+user_9,2025-12-26 16:34:58.299477,rate my experience,Feedback
+user_41,2025-12-21 04:12:19.299483,is product Z in stock?,Product_Inquiry
+user_36,2025-12-22 22:57:08.299489,error 404,Technical_Issue
+user_23,2025-12-21 07:53:20.299496,missing package,Check_Order
+user_26,2025-12-26 04:31:48.299503,where is my package?,Check_Order
+user_14,2025-12-24 14:42:51.299509,defective item,Refund_Request
+user_32,2025-12-26 16:33:31.299516,missing package,Check_Order
+user_46,2026-01-09 20:36:35.299564,price of item Y,Product_Inquiry
+user_9,2026-01-05 16:52:16.299571,prime video not working,Technical_Issue
+user_43,2026-01-02 09:21:35.299577,error 404,Technical_Issue
+user_50,2025-12-22 21:32:42.299583,talk to human agent,Customer_Service_Contact
+user_10,2025-12-23 11:22:26.299589,can I track my recent purchase?,Check_Order
+user_48,2026-01-05 05:06:03.299595,change my password,Account_Assistance
+user_28,2025-12-28 19:39:09.299601,manage my subscriptions,Account_Assistance
+user_37,2026-01-10 11:43:07.299607,hey there,Greeting
+user_4,2026-01-01 10:04:26.299612,delivery date for my order,Check_Order
+user_23,2025-12-26 08:10:05.299618,rate my experience,Feedback
+user_25,2026-01-19 06:58:24.299624,hello,Greeting
+user_31,2026-01-13 16:45:28.299630,rate my experience,Feedback
+user_42,2026-01-12 00:35:52.299636,speak to a representative,Customer_Service_Contact
+user_9,2025-12-26 14:46:22.299641,website not loading,Technical_Issue
+user_2,2026-01-14 09:18:16.299647,can I get help from a person?,Customer_Service_Contact
+user_39,2026-01-10 09:53:26.299653,tell me about product X,Product_Inquiry
+user_30,2025-12-23 09:38:20.299659,hi,Greeting
+user_10,2026-01-18 11:54:02.299665,hey there,Greeting
+user_23,2025-12-21 08:47:33.299670,I don't understand,Fallback
+user_21,2026-01-11 19:29:56.299676,delivery date for my order,Check_Order
+user_34,2025-12-23 00:04:41.299682,website not loading,Technical_Issue
+user_27,2025-12-23 03:06:22.299688,asdfghjkl,Fallback
+user_31,2025-12-25 19:03:54.299694,I need to speak with someone,Customer_Service_Contact
+user_7,2026-01-17 12:26:09.299700,what are the features of this laptop?,Product_Inquiry
+user_45,2026-01-18 12:50:36.299706,I have a suggestion,Feedback
+user_49,2025-12-29 14:48:12.299711,rate my experience,Feedback
+user_36,2026-01-12 00:32:04.299717,website not loading,Technical_Issue
+user_38,2026-01-08 23:36:30.299723,app is crashing,Technical_Issue
+user_1,2026-01-03 19:53:02.299729,login failed,Technical_Issue
+user_39,2026-01-15 05:47:00.299735,what are the features of this laptop?,Product_Inquiry
+user_35,2026-01-14 02:30:55.299740,change my password,Account_Assistance
+user_38,2026-01-12 03:05:02.299746,greetings,Greeting
+user_45,2025-12-20 19:18:00.299752,return item,Refund_Request
+user_38,2025-12-30 01:46:28.299758,delivery date for my order,Check_Order
+user_17,2026-01-10 04:56:33.299764,how to return a product?,Refund_Request
+user_50,2025-12-20 14:21:58.299769,money back please,Refund_Request
+user_13,2025-12-22 16:13:31.299776,hey there,Greeting
+user_22,2026-01-05 22:02:45.299781,issue with my recent purchase,Refund_Request
+user_14,2025-12-28 22:27:05.299787,I have a suggestion,Feedback
+user_40,2026-01-03 02:26:55.299793,login failed,Technical_Issue
+user_34,2026-01-13 04:53:15.299799,app is crashing,Technical_Issue
+user_27,2026-01-12 01:18:36.299805,kindle not syncing,Technical_Issue
+user_1,2025-12-30 09:29:11.299810,I don't understand,Fallback
+user_31,2026-01-08 18:37:58.299816,update payment method,Account_Assistance
+user_31,2025-12-31 05:04:13.299822,I need to speak with someone,Customer_Service_Contact
+user_11,2026-01-13 14:47:01.299828,greetings,Greeting
+user_10,2025-12-21 00:04:51.299834,rate my experience,Feedback
+user_16,2026-01-11 06:12:15.299839,compare product A and B,Product_Inquiry
+user_43,2026-01-05 15:56:05.299845,hey there,Greeting
+user_7,2025-12-21 15:21:35.299851,website not loading,Technical_Issue
+user_35,2026-01-14 19:16:57.299857,track order,Check_Order
+user_23,2026-01-03 08:31:01.299863,I have a suggestion,Feedback
+user_26,2025-12-22 08:49:55.299868,feedback about your service,Feedback
+user_28,2026-01-17 13:47:36.299874,greetings,Greeting
+user_45,2025-12-22 12:43:23.299880,I need to speak with someone,Customer_Service_Contact
+user_19,2026-01-06 12:29:39.299886,I have a suggestion,Feedback
+user_9,2026-01-10 11:37:32.299892,alexa is not responding,Technical_Issue
+user_24,2026-01-14 11:13:00.299897,prime video not working,Technical_Issue
+user_8,2025-12-29 21:58:08.299903,who are you?,Fallback
+user_9,2025-12-28 11:42:09.299909,order arrived yet?,Check_Order
+user_32,2026-01-12 10:01:13.299915,can I get help from a person?,Customer_Service_Contact
+user_3,2025-12-29 20:54:06.299921,rate my experience,Feedback
+user_32,2026-01-15 14:27:53.299926,can I speak to a purple elephant?,Fallback
+user_18,2026-01-07 01:42:10.299932,I have a suggestion,Feedback
+user_50,2025-12-27 03:06:41.299938,app is crashing,Technical_Issue
+user_44,2025-12-30 10:42:38.299944,!!,Fallback
+user_4,2025-12-21 22:53:05.299950,missing package,Check_Order
+user_50,2026-01-07 23:29:59.299956,rate my experience,Feedback
+user_6,2025-12-26 16:37:53.299961,talk to human agent,Customer_Service_Contact
+user_31,2026-01-06 06:38:28.299967,how to return a product?,Refund_Request
+user_23,2026-01-09 19:50:27.299974,update payment method,Account_Assistance
+user_21,2025-12-30 23:48:36.299979,hi,Greeting
+user_42,2026-01-05 20:27:37.299985,hey there,Greeting
+user_35,2025-12-20 21:54:30.299991,hello,Greeting
+user_28,2025-12-28 02:52:35.299997,login failed,Technical_Issue
+user_28,2025-12-27 05:40:18.300003,can I speak to a purple elephant?,Fallback
+user_31,2026-01-15 03:36:30.300009,compare product A and B,Product_Inquiry
+user_10,2025-12-25 08:12:59.300014,greetings,Greeting
+user_40,2026-01-01 17:14:48.300020,tell me about product X,Product_Inquiry
+user_32,2025-12-25 19:42:27.300026,who are you?,Fallback
+user_42,2026-01-19 10:39:30.300032,login failed,Technical_Issue
+user_26,2025-12-29 00:06:24.300038,hey there,Greeting
+user_38,2025-12-26 16:39:27.300044,login failed,Technical_Issue
+user_1,2026-01-04 23:38:02.300050,hi,Greeting
+user_4,2026-01-03 22:51:15.300056,wrong size,Refund_Request
+user_9,2026-01-12 07:25:41.300061,I don't understand,Fallback
+user_26,2025-12-21 07:52:22.300067,alexa is not responding,Technical_Issue
+user_50,2026-01-02 02:03:54.300073,rate my experience,Feedback
+user_39,2025-12-26 17:46:17.300079,connect me to support,Customer_Service_Contact
+user_14,2026-01-06 17:58:29.300085,hi,Greeting
+user_41,2026-01-10 12:41:55.300091,what are the features of this laptop?,Product_Inquiry
+user_42,2026-01-03 03:57:30.300097,compatibility questions,Product_Inquiry
+user_42,2025-12-20 18:29:14.300103,error 404,Technical_Issue
+user_30,2026-01-13 01:51:34.300109,can I get help from a person?,Customer_Service_Contact
+user_21,2026-01-08 03:57:40.300114,defective item,Refund_Request
+user_33,2026-01-04 06:06:36.300120,has my order shipped?,Check_Order
+user_16,2025-12-24 08:22:41.300126,error 404,Technical_Issue
+user_33,2026-01-09 20:38:11.300131,talk to human agent,Customer_Service_Contact
+user_40,2026-01-10 22:37:29.300137,issue with my recent purchase,Refund_Request
+user_37,2026-01-14 10:59:42.300143,talk to human agent,Customer_Service_Contact
+user_36,2026-01-01 11:05:37.300149,can I track my recent purchase?,Check_Order
+user_8,2026-01-11 06:41:11.300155,rate my experience,Feedback
+user_47,2026-01-19 09:33:23.300160,missing package,Check_Order
+user_34,2025-12-30 15:34:18.300166,can I speak to a purple elephant?,Fallback
+user_34,2026-01-01 03:48:33.300172,i want a refund,Refund_Request
+user_43,2026-01-20 07:57:41.300178,I have a suggestion,Feedback
+user_22,2026-01-16 05:39:34.300186,money back please,Refund_Request
+user_44,2026-01-14 13:00:43.300192,change my password,Account_Assistance
+user_8,2025-12-25 11:46:52.300198,who are you?,Fallback
+user_34,2025-12-23 07:29:00.300204,speak to a representative,Customer_Service_Contact
+user_30,2025-12-29 15:16:55.300210,app is crashing,Technical_Issue
+user_32,2025-12-30 22:12:29.300216,my item is damaged,Refund_Request
+user_31,2026-01-07 18:56:20.300221,compatibility questions,Product_Inquiry
+user_28,2026-01-04 13:45:52.300227,can I get help from a person?,Customer_Service_Contact
+user_25,2026-01-12 18:46:14.300233,can I get help from a person?,Customer_Service_Contact
+user_2,2026-01-05 01:30:30.300239,wrong size,Refund_Request
+user_25,2026-01-17 11:32:00.300245,I have a suggestion,Feedback
+user_35,2026-01-12 07:50:32.300250,issue with my recent purchase,Refund_Request
+user_25,2026-01-16 22:42:44.300256,speak to a representative,Customer_Service_Contact
+user_50,2026-01-01 07:15:23.300262,order arrived yet?,Check_Order
+user_44,2025-12-29 19:14:24.300268,I have a suggestion,Feedback
+user_43,2025-12-23 08:14:25.300274,I need to speak with someone,Customer_Service_Contact
+user_47,2026-01-06 13:02:59.300280,I have a suggestion,Feedback
+user_43,2026-01-04 12:23:08.300286,hi,Greeting
+user_12,2025-12-28 22:49:19.300291,I have a suggestion,Feedback
+user_19,2026-01-18 12:02:41.300297,can I speak to a purple elephant?,Fallback
+user_46,2026-01-15 13:45:09.300303,where is my package?,Check_Order
+user_7,2025-12-22 18:00:36.300309,cannot access my account,Technical_Issue
+user_14,2026-01-17 15:46:18.300315,track order,Check_Order
+user_25,2025-12-27 19:59:07.300320,product specifications,Product_Inquiry
+user_26,2025-12-29 10:35:01.300326,website not loading,Technical_Issue
+user_47,2026-01-01 21:34:48.300332,hi,Greeting
+user_1,2026-01-03 03:24:48.300338,update payment method,Account_Assistance
+user_31,2025-12-23 23:01:55.300344,login failed,Technical_Issue
+user_43,2025-12-31 15:54:39.300349,feedback about your service,Feedback
+user_2,2026-01-13 00:51:34.300355,kindle not syncing,Technical_Issue
+user_46,2025-12-31 21:51:08.300361,money back please,Refund_Request
+user_20,2025-12-27 16:33:00.300368,shipping update,Check_Order
+user_32,2025-12-23 07:52:25.300374,defective item,Refund_Request
+user_12,2026-01-01 18:24:14.300380,connect me to support,Customer_Service_Contact
+user_31,2025-12-22 17:48:03.300385,rate my experience,Feedback
+user_46,2025-12-24 10:55:50.300391,track order,Check_Order
+user_42,2026-01-09 08:26:24.300397,hi,Greeting
+user_31,2025-12-27 21:19:48.300403,how to return a product?,Refund_Request
+user_14,2026-01-14 09:06:12.300448,connect me to support,Customer_Service_Contact
+user_28,2026-01-10 23:19:53.300454,wrong size,Refund_Request
+user_23,2026-01-09 08:25:41.300460,can I speak to a purple elephant?,Fallback
+user_33,2025-12-30 11:53:53.300466,can I get help from a person?,Customer_Service_Contact
+user_36,2026-01-17 08:07:19.300472,greetings,Greeting
+user_11,2025-12-24 03:38:17.300478,where is my package?,Check_Order
+user_36,2026-01-13 05:26:19.300484,cannot access my account,Technical_Issue
+user_16,2026-01-01 09:46:29.300489,manage my subscriptions,Account_Assistance
+user_42,2025-12-27 17:23:57.300495,website not loading,Technical_Issue
+user_29,2025-12-26 06:29:24.300501,I have a suggestion,Feedback
+user_3,2026-01-13 07:31:35.300507,what?,Fallback
+user_18,2026-01-09 01:44:51.300513,I don't understand,Fallback
+user_12,2025-12-26 12:52:20.300519,money back please,Refund_Request
+user_35,2026-01-15 21:33:10.300525,rate my experience,Feedback
+user_25,2025-12-25 12:33:14.300531,how to change my address?,Account_Assistance
+user_45,2026-01-17 11:44:46.300537,can I track my recent purchase?,Check_Order
+user_36,2025-12-30 02:24:28.300543,order arrived yet?,Check_Order
+user_4,2025-12-29 23:47:50.300549,compare product A and B,Product_Inquiry
+user_22,2026-01-01 12:41:27.300554,hello,Greeting
+user_11,2026-01-19 08:23:33.300560,is product Z in stock?,Product_Inquiry
+user_48,2026-01-04 05:02:33.300566,compare product A and B,Product_Inquiry
+user_12,2025-12-22 04:38:41.300572,my item is damaged,Refund_Request
+user_48,2025-12-22 05:40:21.300578,delivery date for my order,Check_Order
+user_45,2025-12-27 11:24:04.300585,manage my subscriptions,Account_Assistance
+user_15,2026-01-08 05:55:02.300591,I have a suggestion,Feedback
+user_40,2026-01-18 13:32:20.300596,alexa is not responding,Technical_Issue
+user_46,2025-12-21 11:08:38.300602,hello,Greeting
+user_35,2025-12-24 21:48:44.300608,update payment method,Account_Assistance
+user_15,2025-12-31 01:35:15.300614,shipping update,Check_Order
+user_13,2026-01-06 15:12:09.300620,can't log into my account,Account_Assistance
+user_41,2026-01-16 15:23:28.300626,rate my experience,Feedback
+user_50,2025-12-30 03:00:29.300631,what are the features of this laptop?,Product_Inquiry
+user_9,2026-01-04 08:46:03.300637,speak to a representative,Customer_Service_Contact
+user_17,2026-01-15 04:16:39.300643,what are the features of this laptop?,Product_Inquiry
+user_45,2025-12-30 22:07:54.300649,account suspended,Account_Assistance
+user_40,2026-01-18 08:16:22.300655,asdfghjkl,Fallback
+user_12,2026-01-15 03:31:22.300661,manage my subscriptions,Account_Assistance
+user_38,2026-01-08 14:17:11.300667,cancel an order,Refund_Request
+user_23,2026-01-08 13:41:47.300672,connect me to support,Customer_Service_Contact
+user_7,2026-01-11 00:02:58.300678,has my order shipped?,Check_Order
+user_26,2026-01-02 01:43:55.300684,compatibility questions,Product_Inquiry
+user_3,2026-01-16 10:29:01.300690,rate my experience,Feedback
+user_42,2026-01-07 02:38:37.300696,rate my experience,Feedback
+user_17,2025-12-25 17:27:02.300702,I have a suggestion,Feedback
+user_14,2025-12-23 08:32:07.300708,what?,Fallback
+user_41,2026-01-08 12:36:15.300714,compatibility questions,Product_Inquiry
+user_17,2026-01-17 15:58:31.300719,cancel an order,Refund_Request
+user_36,2026-01-20 04:59:31.300725,rate my experience,Feedback
+user_9,2025-12-24 04:34:00.300731,price of item Y,Product_Inquiry
+user_21,2026-01-01 10:20:53.300737,manage my subscriptions,Account_Assistance
+user_47,2026-01-06 11:17:49.300743,hey there,Greeting
+user_42,2026-01-03 07:22:44.300748,I need to speak with someone,Customer_Service_Contact
+user_35,2026-01-20 07:04:23.300754,can I speak to a purple elephant?,Fallback
+user_5,2026-01-15 02:20:28.300760,track order,Check_Order
+user_2,2026-01-14 11:39:34.300765,I don't understand,Fallback
+user_44,2026-01-06 23:58:23.300771,shipping update,Check_Order
+user_39,2026-01-16 23:55:47.300777,talk to human agent,Customer_Service_Contact
+user_47,2025-12-26 20:24:28.300783,manage my subscriptions,Account_Assistance
+user_11,2026-01-03 02:01:09.300788,compare product A and B,Product_Inquiry
+user_49,2025-12-20 13:29:16.300794,I don't understand,Fallback
+user_40,2026-01-01 16:08:38.300801,greetings,Greeting
+user_28,2025-12-22 11:29:59.300806,I have a suggestion,Feedback
+user_12,2026-01-04 21:14:48.300812,i want a refund,Refund_Request
+user_43,2026-01-06 03:36:42.300818,website not loading,Technical_Issue
+user_20,2026-01-10 19:56:58.300824,can I speak to a purple elephant?,Fallback
+user_33,2026-01-07 12:20:35.300830,speak to a representative,Customer_Service_Contact
+user_41,2025-12-20 16:23:08.300836,what?,Fallback
+user_37,2025-12-26 21:09:59.300841,compare product A and B,Product_Inquiry
+user_36,2025-12-29 20:02:32.300847,speak to a representative,Customer_Service_Contact
+user_2,2026-01-16 00:11:26.300854,what?,Fallback
+user_24,2026-01-13 10:15:53.300860,feedback about your service,Feedback
+user_21,2026-01-06 07:31:57.300865,good morning,Greeting
+user_38,2026-01-03 06:16:50.300871,what are the features of this laptop?,Product_Inquiry
+user_18,2025-12-28 00:29:05.300877,order arrived yet?,Check_Order
+user_37,2026-01-07 07:52:11.300883,greetings,Greeting
+user_32,2026-01-05 12:26:47.300889,status of order #123,Check_Order
+user_2,2025-12-28 18:39:15.300895,how to change my address?,Account_Assistance
+user_17,2025-12-24 01:41:48.300900,status of order #123,Check_Order
+user_37,2025-12-30 04:14:55.300906,defective item,Refund_Request
+user_7,2026-01-03 09:28:15.300912,connect me to support,Customer_Service_Contact
+user_35,2026-01-02 06:01:54.300918,shipping update,Check_Order
+user_5,2025-12-27 07:33:48.300924,what?,Fallback
+user_24,2026-01-11 04:37:15.300930,hey there,Greeting
+user_15,2025-12-30 18:14:22.300935,how to return a product?,Refund_Request
+user_25,2026-01-08 08:30:21.300941,shipping update,Check_Order
+user_22,2026-01-19 23:56:15.300947,prime video not working,Technical_Issue
+user_29,2026-01-09 07:39:27.300953,return item,Refund_Request
+user_19,2026-01-08 14:04:20.300959,can I get help from a person?,Customer_Service_Contact
+user_47,2025-12-27 10:31:08.300965,app is crashing,Technical_Issue
+user_43,2025-12-31 13:49:17.300971,status of order #123,Check_Order
+user_49,2026-01-12 01:59:08.300976,speak to a representative,Customer_Service_Contact
+user_22,2026-01-08 08:00:06.300982,feedback about your service,Feedback
+user_16,2025-12-26 02:41:12.300988,speak to a representative,Customer_Service_Contact
+user_43,2026-01-11 22:47:34.300994,!!,Fallback
+user_50,2026-01-11 08:15:40.300999,I need to speak with someone,Customer_Service_Contact
+user_7,2025-12-20 12:02:39.301005,manage my subscriptions,Account_Assistance
+user_38,2026-01-07 18:42:38.301011,what are the features of this laptop?,Product_Inquiry
+user_33,2026-01-10 07:54:47.301017,alexa is not responding,Technical_Issue
+user_12,2025-12-31 07:48:15.301023,I have a suggestion,Feedback
+user_29,2025-12-23 07:47:14.301029,manage my subscriptions,Account_Assistance
+user_13,2025-12-28 13:44:18.301035,connect me to support,Customer_Service_Contact
+user_41,2026-01-09 19:11:39.301041,price of item Y,Product_Inquiry
+user_14,2025-12-30 06:14:27.301047,rate my experience,Feedback
+user_11,2026-01-14 03:42:19.301052,I have a suggestion,Feedback
+user_41,2026-01-02 02:49:26.301058,rate my experience,Feedback
+user_24,2026-01-14 00:13:22.301064,greetings,Greeting
+user_18,2026-01-14 15:29:49.301070,can't log into my account,Account_Assistance
+user_46,2026-01-08 10:34:57.301076,track order,Check_Order
+user_6,2025-12-23 02:52:11.301082,error 404,Technical_Issue
+user_7,2025-12-20 17:27:28.301088,I need to speak with someone,Customer_Service_Contact
+user_11,2026-01-03 06:12:03.301093,kindle not syncing,Technical_Issue
+user_2,2025-12-29 20:28:15.301099,tell me about product X,Product_Inquiry
+user_16,2026-01-18 02:16:01.301105,can I speak to a purple elephant?,Fallback
+user_7,2025-12-31 08:46:54.301111,product specifications,Product_Inquiry
+user_12,2026-01-01 05:25:42.301117,my item is damaged,Refund_Request
+user_33,2026-01-08 08:15:03.301123,tell me about product X,Product_Inquiry
+user_3,2026-01-16 20:36:26.301128,talk to human agent,Customer_Service_Contact
+user_25,2026-01-18 22:16:51.301134,wrong size,Refund_Request
+user_19,2026-01-08 06:15:13.301140,connect me to support,Customer_Service_Contact
+user_10,2026-01-08 11:22:18.301146,greetings,Greeting
+user_17,2026-01-02 13:25:13.301155,who are you?,Fallback
+user_17,2026-01-17 22:56:11.301161,hello,Greeting
+user_26,2026-01-07 16:14:14.301167,how to change my address?,Account_Assistance
+user_7,2025-12-22 08:48:44.301173,product specifications,Product_Inquiry
+user_8,2025-12-31 12:29:01.301179,greetings,Greeting
+user_48,2026-01-11 09:04:26.301187,where is my package?,Check_Order
+user_16,2025-12-31 02:49:51.301193,account suspended,Account_Assistance
+user_13,2026-01-06 13:20:55.301198,my item is damaged,Refund_Request
+user_7,2025-12-27 09:36:14.301204,my item is damaged,Refund_Request
+user_49,2026-01-18 22:33:01.301210,change my password,Account_Assistance
+user_23,2026-01-05 23:43:20.301216,can I get help from a person?,Customer_Service_Contact
+user_29,2026-01-15 11:51:50.301222,compatibility questions,Product_Inquiry
+user_11,2026-01-07 10:43:16.301229,website not loading,Technical_Issue
+user_23,2026-01-10 15:35:12.301253,I have a suggestion,Feedback
+user_41,2026-01-16 07:03:34.301600,how to change my address?,Account_Assistance
+user_18,2026-01-19 10:55:18.301616,delivery date for my order,Check_Order
+user_36,2025-12-31 02:47:56.301623,greetings,Greeting
+user_27,2025-12-24 06:09:50.301630,error 404,Technical_Issue
+user_43,2026-01-11 17:51:32.301636,who are you?,Fallback
+user_7,2025-12-25 08:26:52.301643,hi,Greeting
+user_22,2026-01-14 21:35:44.301649,where is my package?,Check_Order
+user_10,2025-12-22 13:37:26.301655,missing package,Check_Order
+user_40,2025-12-23 12:17:46.301661,speak to a representative,Customer_Service_Contact
+user_24,2026-01-04 13:46:25.301667,I have a suggestion,Feedback
+user_1,2025-12-28 20:36:42.301674,return item,Refund_Request
+user_16,2026-01-07 13:40:24.301679,price of item Y,Product_Inquiry
+user_35,2026-01-12 14:23:38.301685,I need to speak with someone,Customer_Service_Contact
+user_19,2025-12-26 05:00:46.301691,!!,Fallback
+user_3,2026-01-19 08:25:32.301697,delivery date for my order,Check_Order
+user_39,2025-12-21 22:27:28.301703,money back please,Refund_Request
+user_8,2026-01-01 02:37:05.301709,greetings,Greeting
+user_36,2026-01-01 11:54:59.301714,connect me to support,Customer_Service_Contact
+user_14,2026-01-16 22:55:35.301720,return item,Refund_Request
+user_32,2025-12-27 05:51:09.301726,compare product A and B,Product_Inquiry
+user_35,2026-01-07 09:00:50.301732,website not loading,Technical_Issue
+user_10,2026-01-01 07:32:31.301738,feedback about your service,Feedback
+user_19,2026-01-02 01:32:46.301744,my item is damaged,Refund_Request
+user_28,2026-01-15 14:52:19.301750,status of order #123,Check_Order
+user_13,2026-01-10 06:52:12.301756,website not loading,Technical_Issue
+user_34,2025-12-24 14:44:26.301761,return item,Refund_Request
+user_13,2026-01-16 18:55:14.301767,price of item Y,Product_Inquiry
+user_15,2026-01-02 12:36:47.301773,hey there,Greeting
+user_19,2026-01-16 08:01:19.301779,can I track my recent purchase?,Check_Order
+user_32,2026-01-16 13:47:28.301785,talk to human agent,Customer_Service_Contact
+user_17,2026-01-12 11:48:46.301791,feedback about your service,Feedback
+user_1,2026-01-14 07:20:17.301797,wrong size,Refund_Request
+user_48,2025-12-24 16:00:38.301802,speak to a representative,Customer_Service_Contact
+user_15,2025-12-23 23:08:02.301808,price of item Y,Product_Inquiry
+user_15,2026-01-12 07:50:42.301814,asdfghjkl,Fallback
+user_48,2026-01-12 10:01:56.301820,I have a suggestion,Feedback
+user_11,2025-12-23 11:46:29.301826,return item,Refund_Request
+user_32,2025-12-24 19:17:25.301832,what?,Fallback
+user_45,2026-01-18 00:28:58.301838,I don't understand,Fallback
+user_30,2025-12-30 22:09:46.301844,feedback about your service,Feedback
+user_20,2026-01-14 15:25:08.301850,track order,Check_Order
+user_17,2026-01-07 15:03:22.301855,!!,Fallback
+user_26,2026-01-05 22:16:38.301861,hey there,Greeting
+user_34,2026-01-01 03:37:34.301867,hey there,Greeting
+user_9,2026-01-15 02:36:28.301873,I don't understand,Fallback
+user_14,2026-01-19 20:37:08.301879,I don't understand,Fallback
+user_15,2026-01-16 02:56:00.301885,cancel an order,Refund_Request
+user_13,2026-01-12 19:56:40.301891,hi,Greeting
+user_13,2025-12-25 22:43:25.301896,talk to human agent,Customer_Service_Contact
+user_3,2026-01-11 10:29:50.301902,feedback about your service,Feedback
+user_25,2026-01-16 18:11:56.301908,I have a suggestion,Feedback
+user_27,2025-12-30 19:23:25.301914,compatibility questions,Product_Inquiry
+user_33,2026-01-10 18:30:51.301920,what are the features of this laptop?,Product_Inquiry
+user_20,2025-12-22 14:30:13.301926,can I get help from a person?,Customer_Service_Contact
+user_50,2026-01-04 08:52:45.301931,compatibility questions,Product_Inquiry
+user_17,2026-01-03 23:09:03.301937,rate my experience,Feedback
+user_25,2026-01-12 02:22:38.301943,defective item,Refund_Request
+user_22,2026-01-07 14:40:00.301949,prime video not working,Technical_Issue
+user_48,2026-01-08 17:47:46.301954,I need to speak with someone,Customer_Service_Contact
+user_16,2025-12-23 00:59:41.301960,update payment method,Account_Assistance
+user_23,2026-01-14 10:49:18.301967,kindle not syncing,Technical_Issue
+user_8,2026-01-14 22:01:29.301973,compatibility questions,Product_Inquiry
+user_10,2025-12-26 00:19:01.301979,manage my subscriptions,Account_Assistance
+user_7,2026-01-06 05:45:18.301985,is product Z in stock?,Product_Inquiry
+user_20,2026-01-01 10:13:29.301991,price of item Y,Product_Inquiry
+user_41,2026-01-17 11:32:16.301997,account suspended,Account_Assistance
+user_39,2026-01-18 12:36:10.302003,what?,Fallback
+user_20,2025-12-24 04:20:01.302009,rate my experience,Feedback
+user_25,2026-01-03 17:43:41.302015,what?,Fallback
+user_22,2026-01-01 21:51:04.302021,can I track my recent purchase?,Check_Order
+user_16,2025-12-23 12:56:04.302026,product specifications,Product_Inquiry
+user_43,2026-01-10 17:34:39.302032,how to return a product?,Refund_Request
+user_15,2026-01-08 19:17:39.302038,can I speak to a purple elephant?,Fallback
+user_19,2026-01-10 05:01:36.302044,missing package,Check_Order
+user_5,2026-01-08 17:06:36.302050,prime membership issues,Account_Assistance
+user_14,2026-01-01 01:29:43.302056,error 404,Technical_Issue
+user_13,2026-01-05 15:46:08.302061,connect me to support,Customer_Service_Contact
+user_1,2026-01-12 18:38:34.302067,what?,Fallback
+user_6,2026-01-01 15:36:50.302073,kindle not syncing,Technical_Issue
+user_39,2026-01-03 09:07:45.302079,can I speak to a purple elephant?,Fallback
+user_11,2026-01-09 00:43:27.302084,rate my experience,Feedback
+user_17,2026-01-11 03:24:22.302090,track order,Check_Order
+user_41,2026-01-03 06:33:22.302096,website not loading,Technical_Issue
+user_30,2026-01-01 17:26:05.302102,asdfghjkl,Fallback
+user_24,2026-01-14 13:09:17.302107,manage my subscriptions,Account_Assistance
+user_13,2026-01-10 06:17:43.302113,can't log into my account,Account_Assistance
+user_9,2026-01-19 18:54:03.302119,speak to a representative,Customer_Service_Contact
+user_49,2025-12-29 11:04:20.302124,can't log into my account,Account_Assistance
+user_18,2025-12-31 08:31:28.302130,I have a suggestion,Feedback
+user_41,2026-01-09 09:36:55.302136,speak to a representative,Customer_Service_Contact
+user_2,2025-12-30 06:24:53.302142,what are the features of this laptop?,Product_Inquiry
+user_30,2025-12-27 01:10:01.302148,prime membership issues,Account_Assistance
+user_24,2025-12-26 13:32:43.302153,asdfghjkl,Fallback
+user_24,2025-12-25 04:22:44.302159,I don't understand,Fallback
+user_47,2025-12-21 10:13:04.302165,greetings,Greeting
+user_50,2026-01-02 14:00:29.302171,talk to human agent,Customer_Service_Contact
+user_28,2025-12-23 12:09:26.302177,I have a suggestion,Feedback
+user_8,2026-01-12 22:45:07.302185,is product Z in stock?,Product_Inquiry
+user_6,2026-01-10 01:18:09.302191,I don't understand,Fallback
+user_11,2025-12-22 12:51:57.302197,can I get help from a person?,Customer_Service_Contact
+user_15,2026-01-07 13:13:49.302203,good morning,Greeting
+user_18,2026-01-09 03:47:20.302209,account suspended,Account_Assistance
+user_13,2026-01-19 13:01:06.302215,app is crashing,Technical_Issue
+user_15,2026-01-07 23:14:55.302220,tell me about product X,Product_Inquiry
+user_14,2026-01-17 20:51:52.302226,compatibility questions,Product_Inquiry
+user_45,2026-01-11 10:19:21.302232,good morning,Greeting
+user_29,2026-01-09 22:53:09.302237,asdfghjkl,Fallback
+user_35,2026-01-16 18:52:53.302244,I have a suggestion,Feedback
+user_29,2026-01-11 13:36:49.302250,can I track my recent purchase?,Check_Order
+user_26,2026-01-17 08:34:57.302256,alexa is not responding,Technical_Issue
+user_6,2025-12-23 13:29:09.302261,shipping update,Check_Order
+user_15,2025-12-26 09:47:40.302267,I need to speak with someone,Customer_Service_Contact
+user_22,2026-01-16 09:33:09.302273,asdfghjkl,Fallback
+user_30,2026-01-05 14:50:17.302279,where is my package?,Check_Order
+user_9,2025-12-31 19:20:21.302285,I have a suggestion,Feedback
+user_3,2026-01-14 21:19:10.302290,I don't understand,Fallback
+user_37,2026-01-16 16:46:02.302296,who are you?,Fallback
+user_41,2026-01-18 04:45:51.302302,I have a suggestion,Feedback
+user_46,2025-12-28 15:03:17.302308,account suspended,Account_Assistance
+user_21,2025-12-25 00:18:49.302314,has my order shipped?,Check_Order
+user_27,2026-01-19 02:17:03.302320,compare product A and B,Product_Inquiry
+user_47,2025-12-23 15:20:52.302326,price of item Y,Product_Inquiry
+user_29,2026-01-04 14:37:55.302332,update payment method,Account_Assistance
+user_40,2026-01-01 18:03:37.302337,I have a suggestion,Feedback
+user_26,2026-01-07 09:21:19.302343,prime membership issues,Account_Assistance
+user_15,2025-12-22 06:52:21.302349,i want a refund,Refund_Request
+user_33,2025-12-29 20:16:42.302355,order arrived yet?,Check_Order
+user_48,2026-01-13 07:52:10.302361,manage my subscriptions,Account_Assistance
+user_6,2026-01-02 12:56:03.302366,I don't understand,Fallback
+user_24,2026-01-02 22:20:22.302372,hello,Greeting
+user_34,2025-12-22 22:46:46.302378,account suspended,Account_Assistance
+user_21,2026-01-06 01:29:32.302384,price of item Y,Product_Inquiry
+user_25,2025-12-26 13:19:30.302390,hello,Greeting
+user_15,2026-01-05 22:28:14.302396,prime membership issues,Account_Assistance
+user_3,2026-01-13 19:25:58.302402,compatibility questions,Product_Inquiry
+user_43,2025-12-31 09:34:51.302453,good morning,Greeting
+user_1,2025-12-27 18:09:34.302460,I have a suggestion,Feedback
+user_19,2025-12-22 00:44:48.302466,who are you?,Fallback
+user_47,2026-01-14 15:17:42.302472,is product Z in stock?,Product_Inquiry
+user_35,2026-01-04 23:19:24.302478,connect me to support,Customer_Service_Contact
+user_11,2026-01-16 11:19:10.302483,compatibility questions,Product_Inquiry
+user_35,2026-01-09 08:37:53.302489,I need to speak with someone,Customer_Service_Contact
+user_4,2025-12-24 14:50:46.302495,my item is damaged,Refund_Request
+user_30,2026-01-15 23:39:45.302501,website not loading,Technical_Issue
+user_11,2026-01-10 20:45:12.302507,feedback about your service,Feedback
+user_21,2025-12-22 16:40:34.302513,order arrived yet?,Check_Order
+user_20,2026-01-01 19:22:34.302519,feedback about your service,Feedback
+user_17,2026-01-05 02:55:32.302525,I need to speak with someone,Customer_Service_Contact
+user_18,2026-01-02 10:00:18.302531,hi,Greeting
+user_29,2026-01-18 00:21:14.302537,login failed,Technical_Issue
+user_36,2026-01-14 08:31:04.302543,I have a suggestion,Feedback
+user_14,2025-12-24 03:17:30.302549,can I get help from a person?,Customer_Service_Contact
+user_10,2025-12-30 12:52:33.302555,missing package,Check_Order
+user_29,2026-01-01 13:20:34.302560,product specifications,Product_Inquiry
+user_10,2026-01-15 08:41:11.302566,can't log into my account,Account_Assistance
+user_42,2025-12-30 03:34:10.302572,talk to human agent,Customer_Service_Contact
+user_16,2026-01-16 22:13:44.302578,app is crashing,Technical_Issue
+user_38,2025-12-23 16:07:04.302583,speak to a representative,Customer_Service_Contact
+user_11,2026-01-01 19:19:00.302589,greetings,Greeting
+user_46,2026-01-14 20:53:09.302595,cancel an order,Refund_Request
+user_3,2026-01-09 06:05:22.302601,price of item Y,Product_Inquiry
+user_19,2026-01-07 02:56:15.302607,has my order shipped?,Check_Order
+user_2,2025-12-29 05:47:32.302613,manage my subscriptions,Account_Assistance
+user_4,2026-01-08 20:53:10.302618,hey there,Greeting
+user_27,2025-12-30 11:16:12.302624,how to return a product?,Refund_Request
+user_29,2026-01-18 13:52:28.302630,compatibility questions,Product_Inquiry
+user_27,2025-12-28 04:59:28.302636,connect me to support,Customer_Service_Contact
+user_32,2026-01-13 05:59:13.302641,is product Z in stock?,Product_Inquiry
+user_11,2026-01-13 10:01:14.302647,wrong size,Refund_Request
+user_6,2025-12-27 01:20:29.302653,defective item,Refund_Request
+user_44,2026-01-17 19:16:45.302659,I don't understand,Fallback
+user_48,2026-01-07 05:39:13.302665,what?,Fallback
+user_3,2026-01-02 06:46:44.302671,login failed,Technical_Issue
+user_8,2026-01-05 09:41:07.302679,I have a suggestion,Feedback
+user_46,2026-01-08 14:10:59.302686,price of item Y,Product_Inquiry
+user_27,2025-12-30 00:32:20.302692,my item is damaged,Refund_Request
+user_23,2026-01-19 14:32:47.302698,wrong size,Refund_Request
+user_23,2026-01-10 16:21:51.302703,prime video not working,Technical_Issue
+user_44,2026-01-03 02:40:14.302709,can I get help from a person?,Customer_Service_Contact
+user_24,2026-01-10 07:01:53.302715,product specifications,Product_Inquiry
+user_14,2025-12-24 17:22:25.302720,how to change my address?,Account_Assistance
+user_13,2025-12-24 14:44:49.302726,alexa is not responding,Technical_Issue
+user_41,2026-01-01 19:26:42.302732,greetings,Greeting
+user_5,2026-01-03 22:27:47.302738,product specifications,Product_Inquiry
+user_24,2026-01-13 20:01:09.302744,tell me about product X,Product_Inquiry
+user_49,2025-12-27 00:16:18.302749,hey there,Greeting
+user_17,2026-01-11 22:56:21.302755,error 404,Technical_Issue
+user_15,2025-12-31 16:21:12.302761,I have a suggestion,Feedback
+user_18,2025-12-22 06:32:00.302767,feedback about your service,Feedback
+user_1,2026-01-20 03:30:10.302773,manage my subscriptions,Account_Assistance
+user_45,2026-01-15 19:24:42.302778,compatibility questions,Product_Inquiry
+user_13,2026-01-07 23:00:22.302784,rate my experience,Feedback
+user_38,2026-01-04 11:16:48.302790,error 404,Technical_Issue
+user_39,2025-12-24 15:52:47.302796,manage my subscriptions,Account_Assistance
+user_47,2025-12-26 20:12:49.302801,hello,Greeting
+user_14,2026-01-06 10:16:58.302807,my item is damaged,Refund_Request
+user_7,2026-01-04 10:11:17.302813,missing package,Check_Order
+user_11,2025-12-30 11:29:48.302819,status of order #123,Check_Order
+user_9,2025-12-26 17:29:27.302825,greetings,Greeting
+user_44,2026-01-17 16:45:28.302831,hello,Greeting
+user_26,2026-01-13 17:24:27.302836,alexa is not responding,Technical_Issue
+user_42,2026-01-16 03:19:45.302842,speak to a representative,Customer_Service_Contact
+user_10,2026-01-09 23:11:34.302848,asdfghjkl,Fallback
+user_11,2026-01-06 19:32:45.302854,return item,Refund_Request
+user_45,2026-01-05 07:30:28.302860,hey there,Greeting
+user_43,2025-12-30 23:48:03.302866,how to change my address?,Account_Assistance
+user_38,2026-01-16 00:47:42.302872,good morning,Greeting
+user_3,2025-12-30 07:16:54.302878,can I get help from a person?,Customer_Service_Contact
+user_2,2026-01-11 13:55:10.302884,track order,Check_Order
+user_38,2025-12-31 20:05:05.302890,prime video not working,Technical_Issue
+user_14,2026-01-13 06:00:50.302895,wrong size,Refund_Request
+user_20,2026-01-06 09:53:36.302901,hey there,Greeting
+user_38,2025-12-29 11:54:31.302907,rate my experience,Feedback
+user_45,2026-01-07 19:27:21.302913,greetings,Greeting
+user_6,2026-01-05 16:35:31.302919,compare product A and B,Product_Inquiry
+user_34,2026-01-05 18:35:12.302925,error 404,Technical_Issue
+user_40,2026-01-01 20:41:02.302930,manage my subscriptions,Account_Assistance
+user_3,2025-12-28 12:03:33.302936,connect me to support,Customer_Service_Contact
+user_21,2025-12-27 10:26:46.302942,I need to speak with someone,Customer_Service_Contact
+user_48,2026-01-12 09:38:00.302948,I have a suggestion,Feedback
+user_23,2025-12-30 03:03:20.302953,can't log into my account,Account_Assistance
+user_20,2026-01-13 09:05:17.302960,my item is damaged,Refund_Request
+user_26,2025-12-21 14:04:47.302965,how to change my address?,Account_Assistance
+user_36,2025-12-30 06:55:47.302971,where is my package?,Check_Order
+user_25,2026-01-14 13:04:17.302977,update payment method,Account_Assistance
+user_18,2026-01-08 11:45:16.302983,where is my package?,Check_Order
+user_6,2025-12-27 18:28:18.302989,compatibility questions,Product_Inquiry
+user_14,2025-12-27 05:43:41.302995,connect me to support,Customer_Service_Contact
+user_22,2026-01-20 03:55:56.303001,I don't understand,Fallback
+user_40,2025-12-23 08:51:10.303006,prime video not working,Technical_Issue
+user_49,2026-01-07 08:32:38.303013,greetings,Greeting
+user_41,2026-01-18 14:04:29.303019,I have a suggestion,Feedback
+user_50,2026-01-14 22:36:11.303025,hey there,Greeting
+user_48,2025-12-21 10:12:27.303030,what?,Fallback
+user_21,2026-01-11 18:19:30.303036,prime video not working,Technical_Issue
+user_50,2026-01-04 18:24:42.303042,hello,Greeting
+user_47,2026-01-06 11:17:26.303048,my item is damaged,Refund_Request
+user_10,2025-12-20 15:41:07.303054,rate my experience,Feedback
+user_10,2026-01-03 14:03:21.303060,rate my experience,Feedback
+user_2,2026-01-03 07:48:20.303067,can I get help from a person?,Customer_Service_Contact
+user_41,2026-01-13 16:22:40.303072,rate my experience,Feedback
+user_2,2026-01-01 18:54:00.303078,manage my subscriptions,Account_Assistance
+user_12,2025-12-22 17:10:17.303084,my item is damaged,Refund_Request
+user_43,2026-01-12 12:25:27.303090,manage my subscriptions,Account_Assistance
+user_50,2025-12-24 07:39:35.303096,I need to speak with someone,Customer_Service_Contact
+user_6,2026-01-02 01:59:29.303102,greetings,Greeting
+user_38,2025-12-26 12:41:55.303108,change my password,Account_Assistance
+user_2,2026-01-01 03:49:24.303114,I need to speak with someone,Customer_Service_Contact
+user_20,2026-01-05 14:19:15.303120,cannot access my account,Technical_Issue
+user_33,2026-01-13 13:24:00.303125,return item,Refund_Request
+user_42,2026-01-15 20:13:38.303131,hello,Greeting
+user_26,2025-12-27 14:04:10.303137,can't log into my account,Account_Assistance
+user_22,2026-01-09 00:30:34.303143,price of item Y,Product_Inquiry
+user_11,2026-01-10 08:39:03.303149,tell me about product X,Product_Inquiry
+user_19,2026-01-17 15:11:35.303155,talk to human agent,Customer_Service_Contact
+user_38,2026-01-08 21:49:37.303160,login failed,Technical_Issue
+user_11,2025-12-21 14:21:11.303166,talk to human agent,Customer_Service_Contact
+user_42,2026-01-13 08:27:00.303172,delivery date for my order,Check_Order
+user_15,2026-01-13 21:12:13.303178,!!,Fallback
+user_22,2025-12-20 21:40:16.303186,compare product A and B,Product_Inquiry
+user_44,2026-01-16 03:35:03.303192,compatibility questions,Product_Inquiry
+user_13,2026-01-05 01:56:45.303197,is product Z in stock?,Product_Inquiry
+user_6,2025-12-25 12:18:23.303203,!!,Fallback
+user_14,2026-01-03 17:26:45.303209,has my order shipped?,Check_Order
+user_20,2026-01-01 00:03:59.303215,change my password,Account_Assistance
+user_4,2025-12-31 21:12:42.303221,good morning,Greeting
+user_41,2026-01-01 17:42:00.303226,speak to a representative,Customer_Service_Contact
+user_44,2026-01-11 17:28:49.303232,I have a suggestion,Feedback
+user_19,2025-12-27 00:53:40.303238,hello,Greeting
+user_34,2026-01-05 22:53:17.303244,missing package,Check_Order
+user_32,2026-01-05 09:32:07.303250,good morning,Greeting
+user_28,2026-01-05 20:31:00.303255,compatibility questions,Product_Inquiry
+user_26,2026-01-05 00:20:41.303261,order arrived yet?,Check_Order
+user_2,2026-01-16 22:00:21.303268,delivery date for my order,Check_Order
+user_30,2026-01-18 03:20:02.303274,hey there,Greeting
+user_38,2025-12-24 22:28:36.303280,login failed,Technical_Issue
+user_11,2026-01-17 11:24:52.303286,speak to a representative,Customer_Service_Contact
+user_21,2025-12-30 05:57:36.303291,prime membership issues,Account_Assistance
+user_4,2025-12-30 15:10:08.303297,rate my experience,Feedback
+user_17,2026-01-15 12:14:07.303303,I have a suggestion,Feedback
+user_16,2026-01-14 19:51:25.303309,talk to human agent,Customer_Service_Contact
+user_8,2025-12-24 18:30:58.303315,wrong size,Refund_Request
+user_10,2025-12-27 06:58:11.303321,error 404,Technical_Issue
+user_35,2026-01-18 00:47:10.303326,asdfghjkl,Fallback
+user_5,2026-01-15 03:19:58.303332,wrong size,Refund_Request
+user_13,2025-12-22 14:40:25.303338,asdfghjkl,Fallback
+user_20,2025-12-29 08:54:32.303344,app is crashing,Technical_Issue
+user_37,2025-12-22 08:39:21.303350,can I speak to a purple elephant?,Fallback
+user_29,2026-01-07 17:42:42.303356,wrong size,Refund_Request
+user_30,2026-01-18 06:48:32.303361,hi,Greeting
+user_31,2026-01-12 05:15:32.303368,good morning,Greeting
+user_28,2025-12-30 17:26:00.303373,price of item Y,Product_Inquiry
+user_16,2026-01-19 17:39:32.303379,can't log into my account,Account_Assistance
+user_5,2026-01-08 09:54:24.303385,speak to a representative,Customer_Service_Contact
+user_46,2026-01-03 18:02:54.303391,shipping update,Check_Order
+user_7,2026-01-03 17:00:14.303397,tell me about product X,Product_Inquiry
+user_23,2026-01-18 17:48:50.303403,compatibility questions,Product_Inquiry
+user_50,2026-01-07 13:19:13.303443,is product Z in stock?,Product_Inquiry
+user_45,2026-01-04 04:41:25.303457,hey there,Greeting
+user_40,2025-12-26 13:39:41.303463,can't log into my account,Account_Assistance
+user_38,2026-01-12 00:25:32.303468,prime membership issues,Account_Assistance
+user_42,2026-01-18 13:57:31.303474,feedback about your service,Feedback
+user_42,2026-01-07 09:35:11.303480,how to return a product?,Refund_Request
+user_20,2026-01-05 19:15:32.303486,price of item Y,Product_Inquiry
+user_32,2026-01-01 06:47:30.303492,who are you?,Fallback
+user_10,2025-12-30 07:45:48.303497,rate my experience,Feedback
+user_11,2026-01-20 01:21:39.303503,hey there,Greeting
+user_44,2025-12-29 14:38:09.303509,status of order #123,Check_Order
+user_7,2026-01-18 23:26:43.303515,app is crashing,Technical_Issue
+user_17,2026-01-16 03:28:52.303521,connect me to support,Customer_Service_Contact
+user_45,2026-01-14 00:08:08.303527,shipping update,Check_Order
+user_48,2026-01-14 10:20:46.303533,i want a refund,Refund_Request
+user_11,2026-01-06 03:50:27.303539,rate my experience,Feedback
+user_2,2026-01-17 23:37:52.303545,my item is damaged,Refund_Request
+user_8,2026-01-06 14:14:38.303551,cannot access my account,Technical_Issue
+user_32,2025-12-27 00:46:07.303556,manage my subscriptions,Account_Assistance
+user_49,2025-12-22 14:52:57.303562,who are you?,Fallback
+user_22,2025-12-29 09:32:58.303568,return item,Refund_Request
