@@ -8,15 +8,6 @@ A project for the **MSc Artificial Intelligence** module *Chatbot Analytics and 
 
 **[View the Chatbot Analytics Dashboard on Hugging Face Spaces](https://huggingface.co/spaces/ashneeshkaur/chatbot_streamlit)**
 
----
-
-## Report
-
-**[Read the full assignment report →](Chatbot_Analytics_Ashneesh_Q1020792.pdf)**
-
-The report covers the introduction, Task 1 (BotPress dashboard), Task 2.1 (performance analysis on TWCS), and Task 2.2 (exploratory and deep-dive metric analysis), with findings, visualisations, and optimisation strategies.
-
----
 
 ## Assignment Overview
 
