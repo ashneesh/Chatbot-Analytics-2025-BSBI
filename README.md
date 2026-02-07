@@ -6,7 +6,13 @@ A project for the **MSc Artificial Intelligence** module *Chatbot Analytics and 
 
 ## Live Dashboard
 
+
 **[View the Chatbot Analytics Dashboard on Hugging Face Spaces](https://huggingface.co/spaces/ashneeshkaur/chatbot_streamlit)**
+
+
+
+https://github.com/user-attachments/assets/dda28feb-ed0c-4477-8781-b85a179c86a5
+
 
 
 ## Assignment Overview
